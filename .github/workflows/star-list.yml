@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: some generator
+      - name: My Awesome list 
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
