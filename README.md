@@ -1,14 +1,6 @@
-<div align="center">
+# dong4j's Stars [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Some Stars
-
-⭐ 我的 Star 列表，每天自动更新 ⭐
-
-    <div style="width:auto;margin: 0 auto;">
-        <a href="https://rsshub.app/github/starred_repos/rcy1314"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
-    </div>
-
-</div>
+> :star: generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
 
 ## Table of Contents
 
@@ -2723,5 +2715,3 @@
 ## Vim script
 
 *   [int32bit/dotfiles](https://github.com/int32bit/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-
-*   By [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
