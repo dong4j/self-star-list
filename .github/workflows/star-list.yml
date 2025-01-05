@@ -1,4 +1,4 @@
-name: Update some list
+name: Update Star list
 
 on:
   push:
