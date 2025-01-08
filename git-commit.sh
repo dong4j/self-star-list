@@ -12,7 +12,7 @@ COMMIT_MESSAGE=${1:-"更新模版"}
 git update-index --assume-unchanged README.md
 git update-index --assume-unchanged data.json
 git checkout README.md data.json
-
+git pull 
 git add . 
 git reset README.md
 git reset data.json
