@@ -13,8 +13,11 @@ COMMIT_MESSAGE=${1:-"更新模版"}
 git update-index --assume-unchanged README.md
 git update-index --assume-unchanged data.json
 
-# 拉取远程最新代码
-git pull 
+git fetch origin
+git checkout origin/main -- README.md data.json
+
+# 确保工作区的其他更改不会被覆盖
+git pull --rebase
 
 # 添加所有更改（不包括被忽略的文件）
 git add .
