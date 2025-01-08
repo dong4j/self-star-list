@@ -13,7 +13,7 @@ git fetch origin
 git checkout origin/main -- README.md data.json
 
 # 拉取远程分支最新更新，仅影响其他文件的版本控制信息（不会覆盖本地工作区文件）
-git pull --rebase --no-commit
+git pull 
 
 # 添加所有更改（不包括 README.md 和 data.json）
 git add .
