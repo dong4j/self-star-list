@@ -17,7 +17,11 @@ git checkout README.md data.json
 README_FILE="README.md" # 脚本同级目录下的 public
 TAG_FILE="$SCRIPT_DIR/../source/stars/index.md"
 
-# 上传文件到远程并覆盖
-# echo "正在拷贝 README.md 到 stars 目录"
-# cp "$README_FILE" "$TAG_FILE"
-# echo "文件拷贝成功！"
+# 读取文件A的内容
+contentA=$(cat "$README_FILE")
+
+# 删除 <!-- more --> 之后的所有内容
+sed -i "/<!-- more -->/,\$d" "$TAG_FILE"
+# 添加新内容
+sed -i "/<!-- more -->/a \\\n" "$TAG_FILE" 
+echo "$contentA" >> "$TAG_FILE"
