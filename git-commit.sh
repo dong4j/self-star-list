@@ -8,21 +8,17 @@ cd "$SCRIPT_DIR" || exit 1
 # 使用第一个参数作为提交信息，如果未提供参数，则使用默认信息
 COMMIT_MESSAGE=${1:-"更新模版"}
 
-# 忽略本地修改的文件（这些文件会被远程版本覆盖）
-git update-index --assume-unchanged README.md
-git update-index --assume-unchanged data.json
-
-# 强制使用远程版本覆盖本地的 README.md 和 data.json
+# 强制覆盖本地的 README.md 和 data.json 文件
 git fetch origin
 git checkout origin/main -- README.md data.json
 
-# 拉取远程分支的最新更新（不会覆盖当前工作区的其他更改）
-git pull --rebase
+# 拉取远程分支最新更新，仅影响其他文件的版本控制信息（不会覆盖本地工作区文件）
+git pull --rebase --no-commit
 
-# 添加所有更改（不包括被忽略的文件）
+# 添加所有更改（不包括 README.md 和 data.json）
 git add .
 
-# 重置忽略的文件，确保不会被提交
+# 重置被覆盖的文件（确保 README.md 和 data.json 不被提交）
 git reset README.md
 git reset data.json
 
