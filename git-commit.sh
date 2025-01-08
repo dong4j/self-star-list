@@ -14,7 +14,7 @@ git update-index --assume-unchanged README.md
 git update-index --assume-unchanged data.json
 
 # 拉取远程最新代码
-git pull --rebase
+git pull 
 
 # 添加所有更改（不包括被忽略的文件）
 git add .
