@@ -9,12 +9,22 @@ cd "$SCRIPT_DIR" || exit 1
 COMMIT_MESSAGE=${1:-"更新模版"}
 
 # 执行 Git 操作
+# 忽略本地修改的文件
 git update-index --assume-unchanged README.md
 git update-index --assume-unchanged data.json
-git checkout README.md data.json
-git pull 
-git add . 
+
+# 拉取远程最新代码
+git pull --rebase
+
+# 添加所有更改（不包括被忽略的文件）
+git add .
+
+# 重置被忽略的文件（确保它们不被提交）
 git reset README.md
 git reset data.json
+
+# 提交更改
 git commit -m "$COMMIT_MESSAGE"
+
+# 推送到远程仓库
 git push -u origin main
