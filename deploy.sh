@@ -5,9 +5,6 @@ SCRIPT_DIR=$(dirname "$(realpath "$0")")
 
 cd "$SCRIPT_DIR" || exit 1
 
-# 使用第一个参数作为提交信息，如果未提供参数，则使用默认信息
-COMMIT_MESSAGE=${1:-"更新"}
-
 # 定义本地目录
 README_FILE="README.md" # 脚本同级目录下的 public
 TAG_FILE="$SCRIPT_DIR/../source/stars/index.md"
@@ -15,8 +12,12 @@ TAG_FILE="$SCRIPT_DIR/../source/stars/index.md"
 # 读取文件A的内容
 contentA=$(cat "$README_FILE")
 
-# 删除 <!-- more --> 之后的所有内容
-sed -i "/<!-- more -->/,\$d" "$TAG_FILE"
-# 添加新内容
-sed -i "/<!-- more -->/a \\\n" "$TAG_FILE" 
-echo "$contentA" >> "$TAG_FILE"
+# 使用sed获取<!-- more -->之前的所有内容
+content_before_more=$(sed '/<!-- more -->/q' "$TAG_FILE")
+
+# 拼接内容
+combined_content="${content_before_more}\n\n${contentA}"
+# 将拼接后的内容写入到TAG_FILE
+echo -e "$combined_content" > "$TAG_FILE"
+
+echo "内容已合并到 $TAG_FILE"
