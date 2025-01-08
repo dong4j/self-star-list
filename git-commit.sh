@@ -9,6 +9,10 @@ cd "$SCRIPT_DIR" || exit 1
 COMMIT_MESSAGE=${1:-"更新模版"}
 
 # 执行 Git 操作
+git update-index --assume-unchanged README.md
+git update-index --assume-unchanged data.json
+git checkout README.md data.json
+
 git add . 
 git reset README.md
 git reset data.json
