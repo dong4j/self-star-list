@@ -11,8 +11,7 @@ COMMIT_MESSAGE=${1:-"更新"}
 # 执行 Git 操作
 git update-index --assume-unchanged README.md
 git update-index --assume-unchanged data.json
-git pull
-git checkout README.md
+git checkout README.md data.json
 
 # 定义本地目录
 README_FILE="README.md" # 脚本同级目录下的 public
