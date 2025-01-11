@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR" || exit 1
 
 # 定义本地目录
 README_FILE="README.md" # 脚本同级目录下的 public
-TAG_FILE="$SCRIPT_DIR/../source/stars/index.md"
+TAG_FILE="$SCRIPT_DIR/../../source/stars/index.md"
 
 # 读取文件A的内容
 contentA=$(cat "$README_FILE")
