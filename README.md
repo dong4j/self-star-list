@@ -47,6 +47,8 @@
 
 ## Python
 
+*   [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+
 *   [kodu67/ai-auto-free](https://github.com/kodu67/ai-auto-free) - With this tool you can use Cursor and Windsurf like PRO without any limits.
 
 *   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
@@ -334,8 +336,6 @@
 *   [hzlzh/AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
 
 *   [yisiqi/alfred2-workflow-maven](https://github.com/yisiqi/alfred2-workflow-maven) - Alfred workflow for seaching maven artifacts in maven central repository.
-
-*   [stidio/Alfred-Workflow](https://github.com/stidio/Alfred-Workflow) - Alfred Workflow教程与实例; CDto: 打开Terminal并转到任意文件夹或文件所在目录; Effective IP:查询本机和外网IP地址，解析任意URL和域名的IP地址，以及进行归属地和运营商查询; UpdateAllNPM: 更新所有Node.js全局模块; UpdateAllPIP: 更新所有Python模块
 
 ## Swift
 
