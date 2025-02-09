@@ -50,6 +50,8 @@
 
 ## Python
 
+*   [dong4j/blog-summary-assistant-server](https://github.com/dong4j/blog-summary-assistant-server) - 博客文章摘要生成助手服务端
+
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
 *   [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
@@ -3075,8 +3077,6 @@
 *   [hengyunabc/redis-id-generator](https://github.com/hengyunabc/redis-id-generator) - distributed id generator based on redis.
 
 *   [hengyunabc/xdiamond](https://github.com/hengyunabc/xdiamond) - 全局配置中心
-
-*   [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 
 ## GDScript
 
