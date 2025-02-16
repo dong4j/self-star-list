@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -19,9 +20,7 @@
 *   [MDX](#mdx)
 *   [Elixir](#elixir)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Astro](#astro)
 *   [Lua](#lua)
-*   [XSLT](#xslt)
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [C](#c-1)
@@ -46,6 +45,16 @@
 *   [CoffeeScript](#coffeescript)
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
+
+## Astro
+
+*   [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
+
+*   [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog, an open-source, simple and beautiful blog built with Astro
+
+*   [erdaltoprak/erdaltoprak.com](https://github.com/erdaltoprak/erdaltoprak.com) - Personal website with Astro and Cloudflare Pages
+
+*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ## Go
 
@@ -1327,8 +1336,6 @@
 
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
-*   [gongjianhui/AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。\[已停止更新，请慎用。]
-
 ## C++
 
 *   [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -1687,12 +1694,6 @@
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-## Astro
-
-*   [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog, an open-source, simple and beautiful blog built with Astro
-
-*   [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
-
 ## Lua
 
 *   [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
@@ -1702,10 +1703,6 @@
 *   [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 
 *   [superhj1987/awesome-config](https://github.com/superhj1987/awesome-config) - a common useful server config,including nginx,mysql,tomcat,redis
-
-## XSLT
-
-*   [erdaltoprak/erdaltoprak.com](https://github.com/erdaltoprak/erdaltoprak.com) - Personal website with Astro and Cloudflare Pages
 
 ## Swift
 
