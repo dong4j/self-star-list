@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [C](#c)
+*   [C](#c-1)
 *   [Go](#go)
-*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [Astro](#astro)
@@ -45,6 +45,54 @@
 *   [CoffeeScript](#coffeescript)
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
+
+## C++
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [MuShibo/Micro-Wheeled\_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+
+*   [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
+*   [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.
+
+*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+
+*   [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) - YoloV8 for a bare Raspberry Pi 4 or 5
+
+*   [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [chenyk1219/subconverter-surge](https://github.com/chenyk1219/subconverter-surge) - 为surge定制的subconverter，需要配合特定的前端 https://subconverter.inextops.com
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
+
+*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+
+*   [int32bit/leetcode](https://github.com/int32bit/leetcode) - leetcode解法和思路总结
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+
+*   [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
 ## TypeScript
 
@@ -904,52 +952,6 @@
 
 *   [astaxie/go-best-practice](https://github.com/astaxie/go-best-practice) - Trying to complete over 100 projects in various categories in golang.
 
-## C++
-
-*   [MuShibo/Micro-Wheeled\_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
-
-*   [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-
-*   [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.
-
-*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-
-*   [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) - YoloV8 for a bare Raspberry Pi 4 or 5
-
-*   [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [chenyk1219/subconverter-surge](https://github.com/chenyk1219/subconverter-surge) - 为surge定制的subconverter，需要配合特定的前端 https://subconverter.inextops.com
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
-
-*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-
-*   [int32bit/leetcode](https://github.com/int32bit/leetcode) - leetcode解法和思路总结
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-
-*   [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
-
 ## JavaScript
 
 *   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
@@ -1289,8 +1291,6 @@
 *   [Ma63d/kov-blog](https://github.com/Ma63d/kov-blog) - A blog platform built with koa,vue and mongoose. 使用 koa ,vue  和 mongo 搭建的博客页面和支持markdown语法的博客编写平台,自动保存草稿。博客地址:https://chuckliu.me
 
 *   [dong4j/revealjs\_md](https://github.com/dong4j/revealjs_md) - 使用 reveal.js 结合 markdown 创建 html 格式的 ppt demo
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 ## Swift
 
