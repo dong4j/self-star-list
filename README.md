@@ -1762,7 +1762,7 @@
 
 *   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 
-*   [vastxie/99AI](https://github.com/vastxie/99AI) - 99AI：可商业化的 AI Web 应用（免授权，无后门，支持快速部署，支持二次开发及分发），以 ALL-IN-CHAT 为目标。已支持 AI 对话、绘图、音乐、视频等功能，以及联网、思维导图等插件。
+*   [vastxie/99AI](https://github.com/vastxie/99AI) - 可商业化的 AI Web 平台，提供一站式人工智能服务解决方案。支持私有化部署，内置多用户管理，适合企业、团队或个人快速构建 AI 服务。
 
 *   [wlc-gr/big-screen-vue-datav](https://github.com/wlc-gr/big-screen-vue-datav) -
 
