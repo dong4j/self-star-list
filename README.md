@@ -148,6 +148,10 @@
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
+*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+
+*   [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+
 ## TypeScript
 
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
@@ -1162,8 +1166,6 @@
 
 *   [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts) - 🎨 Python Echarts Plotting Library
 
-*   [hellokaton/lets-python](https://github.com/hellokaton/lets-python) - 🍭 learning Python code
-
 *   [R0uter/ss.conf-for-surge](https://github.com/R0uter/ss.conf-for-surge) - Generate ss.conf for Surge
 
 *   [Kapeli/Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions) - Dash repo of user contributed docsets
@@ -1211,6 +1213,8 @@
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
 *   [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
+
+*   [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 
 ## Go
 
@@ -2118,7 +2122,7 @@
 
 *   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
 
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ## Zig
 
@@ -2146,8 +2150,6 @@
 
 *   [SinHide/shopping-cart](https://github.com/SinHide/shopping-cart) - A vue.js project for shopping cart.
 
-*   [hellokaton/freechat](https://github.com/hellokaton/freechat) - 🐶 online anonymous chat application.
-
 *   [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
 
 *   [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
@@ -2155,6 +2157,8 @@
 *   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
 
 *   [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
+
+*   [cyhhao/html2enml](https://github.com/cyhhao/html2enml) - 在前端将 HTML 尽量转换成 ENML 的工具，需二次调整
 
 ## Scala
 
@@ -2816,8 +2820,6 @@
 
 *   [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
-*   [hellokaton/probe](https://github.com/hellokaton/probe) - exploring the world beyond the wall, netty4 based proxy service.
-
 *   [timebusker/spring-boot](https://github.com/timebusker/spring-boot) - spring-boot 项目实践总结
 
 *   [YaoLin1/ddddemo](https://github.com/YaoLin1/ddddemo) - 一个sofa demo 实现了领域驱动设计
@@ -2951,8 +2953,6 @@
 *   [commonmark/commonmark-java](https://github.com/commonmark/commonmark-java) - Java library for parsing and rendering CommonMark (Markdown)
 
 *   [hellokaton/oh-my-email](https://github.com/hellokaton/oh-my-email) - 📪 可能是最小的 Java 邮件发送库了，支持抄送、附件、模板等功能。
-
-*   [hellokaton/nice](https://github.com/hellokaton/nice) - 🐹 使用blade开发的一款简洁的图片社交应用
 
 *   [hellokaton/oh-mybatis](https://github.com/hellokaton/oh-mybatis) - 🎈 A simple web app to generate mybatis code.
 
