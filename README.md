@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Sass](#sass)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Vue](#vue)
@@ -46,6 +47,10 @@
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
 
+## Sass
+
+*   [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
+
 ## TypeScript
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -70,7 +75,7 @@
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
-*   [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
+*   [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 
 *   [kvnang/workers-og](https://github.com/kvnang/workers-og) - An `og:image` (social card) generator that is fast, browser-less (no Puppeteer), and capable of running on the edge.   This package is designed to be used with Cloudflare Workers (but may be used elsewhere), with the simple API inspired by `@vercel/og`.
 
@@ -935,8 +940,6 @@
 *   [DOClever/DOClever](https://github.com/DOClever/DOClever) - 做最好的接口管理平台
 
 *   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
-
-*   [sunnykaka/awesome-play](https://github.com/sunnykaka/awesome-play) -
 
 ## HTML
 
