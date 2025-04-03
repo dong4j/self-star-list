@@ -2273,7 +2273,7 @@
 
 *   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 
-*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
+*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 开源短信平台 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 
 *   [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
 
