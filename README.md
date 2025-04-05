@@ -380,6 +380,8 @@
 
 *   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
 
+*   [sunnykaka/awesome-play](https://github.com/sunnykaka/awesome-play) -
+
 ## EJS
 
 *   [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
@@ -1272,8 +1274,6 @@
 
 *   [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 
-*   [lhie1/Rules](https://github.com/lhie1/Rules) -
-
 *   [sinb/TextClassify](https://github.com/sinb/TextClassify) - 中文文本分类器,训练简单,多种模型可选.
 
 *   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
@@ -1724,8 +1724,6 @@
 
 *   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-
 *   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
@@ -1846,7 +1844,7 @@
 
 *   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 *   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 
@@ -2172,6 +2170,8 @@
 
 *   [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 
+*   [cyhhao/html2enml](https://github.com/cyhhao/html2enml) - 在前端将 HTML 尽量转换成 ENML 的工具，需二次调整
+
 ## Scala
 
 *   [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
@@ -2297,8 +2297,6 @@
 *   [davidfantasy/mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
 
 *   [anlingyi/xechat-idea](https://github.com/anlingyi/xechat-idea) - 让你能够在IDEA里实现聊天、下棋、斗地主！
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 
 *   [rxyor/idea-plugins](https://github.com/rxyor/idea-plugins) -
 
@@ -2680,10 +2678,6 @@
 
 *   [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
-*   [b3log/latke](https://github.com/b3log/latke) - 🌀 一款以 JSON 为主的 Java Web 框架。
-
-*   [b3log/solo](https://github.com/b3log/solo) - 仓库已经迁移到 https://github.com/88250/solo
-
 *   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，同时又不失灵活性
 
 *   [zhangxd1989/spring-boot-cloud](https://github.com/zhangxd1989/spring-boot-cloud) - 基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目
@@ -2902,8 +2896,6 @@
 
 *   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
 
-*   [niewj/ebook-share](https://github.com/niewj/ebook-share) - 程序员图书馆
-
 *   [vincentruan/curator-spring-boot-starter](https://github.com/vincentruan/curator-spring-boot-starter) - A spring boot starter plugin for zookeeper client with curator - Non-official
 
 *   [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
@@ -3091,6 +3083,14 @@
 *   [Yirendai/cicada](https://github.com/Yirendai/cicada) - A Dapper based Large-Scale Distributed Systems Tracing Infrastructure
 
 *   [liaokailin/zipkin](https://github.com/liaokailin/zipkin) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
+
+*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+
+*   [looly/loServer](https://github.com/looly/loServer) - 基于Netty的Http应用服务器
+
+*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
+
+*   [dong4j/pattern\_code](https://github.com/dong4j/pattern_code) - 这是一个学习设计模式时所涉及到的代码
 
 ## GDScript
 
