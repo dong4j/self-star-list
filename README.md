@@ -78,6 +78,8 @@
 
 *   [dotenvx/llmstxt](https://github.com/dotenvx/llmstxt) - convert `sitemap.xml` to `llms.txt`
 
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+
 *   [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.
 
 *   [huglemon/inwind-landing-page](https://github.com/huglemon/inwind-landing-page) - a free, open-source, powerful landing page template.
@@ -460,8 +462,6 @@
 
 *   [mendableai/llmstxt-generator](https://github.com/mendableai/llmstxt-generator) -
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
-
 *   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 
 *   [hamster1963/NextMe](https://github.com/hamster1963/NextMe) - NextMe is a personal website built with Next.js and Tailwind CSS.
@@ -528,7 +528,7 @@
 
 *   [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 
-*   [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
