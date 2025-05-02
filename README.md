@@ -26,6 +26,7 @@
 *   [Astro](#astro)
 *   [MDX](#mdx)
 *   [PHP](#php)
+*   [Svelte](#svelte)
 *   [Elixir](#elixir)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
@@ -1465,8 +1466,6 @@
 
 *   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 
 *   [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
@@ -2872,6 +2871,10 @@
 *   [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 
 *   [sydlawrence/alfred-dev-doctor](https://github.com/sydlawrence/alfred-dev-doctor) - A dev documentation finder for alfred
+
+## Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Elixir
 
