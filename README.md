@@ -1580,7 +1580,7 @@
 
 *   [DualSubs/Universal](https://github.com/DualSubs/Universal) - 通用流媒体平台增强及双语字幕解决方案
 
-*   [cc63/Surge](https://github.com/cc63/Surge) - 适用于Surge的模块
+*   [cc63/Surge](https://github.com/cc63/Surge) - 适用于Surge的配置与模块
 
 *   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 
