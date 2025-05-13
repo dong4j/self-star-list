@@ -256,7 +256,7 @@
 
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 
-*   [sirpdboy/netspeedtest](https://github.com/sirpdboy/netspeedtest) - luci-app-netspeedtest 网络速度诊断测试（包括：内网网页版测速、内网iperf3吞吐测速、外网speedtest.net网速测试、特定服务器的端口延迟测速）
+*   [sirpdboy/luci-app-netspeedtest](https://github.com/sirpdboy/luci-app-netspeedtest) - luci-app-netspeedtest 网络速度诊断测试（包括：内网网页版测速、内网iperf3吞吐测速、外网speedtest.net网速测试、特定服务器的端口延迟测速）
 
 *   [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派教程，树莓派防吃灰小分队，让树莓派不再吃灰~
 
@@ -2830,7 +2830,7 @@
 
 *   [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast) - Open-source Astro website template with sleek, customizable TailwindCSS components.
 
-*   [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog, an open-source, simple and beautiful blog built with Astro
+*   [godruoyi/gblog](https://github.com/godruoyi/gblog) - 🎈gblog is an open-source, simple, and beautiful blog built with Astro
 
 *   [erdaltoprak/erdaltoprak.com](https://github.com/erdaltoprak/erdaltoprak.com) - Personal website with Astro and Cloudflare Pages
 
