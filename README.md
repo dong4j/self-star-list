@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [CSS](#css)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
@@ -47,6 +47,40 @@
 *   [CoffeeScript](#coffeescript)
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
+
+## CSS
+
+*   [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+
+*   [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
+
+*   [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+
+*   [zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web) - 微信公众号的关注界面
+
+*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
+
+*   [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard
+
+*   [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
+
+*   [li3zhen1/Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) - A theme crafted & designed for modern computer screens, inspired by Microsoft Fluent Design System.
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+
+*   [SinHide/shopping-cart](https://github.com/SinHide/shopping-cart) - A vue.js project for shopping cart.
+
+*   [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
+
+*   [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
+
+*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
+
+*   [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 
 ## Python
 
@@ -255,8 +289,6 @@
 *   [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-
-*   [sirpdboy/luci-app-netspeedtest](https://github.com/sirpdboy/luci-app-netspeedtest) - luci-app-netspeedtest 网络速度诊断测试（包括：内网网页版测速、内网iperf3吞吐测速、外网speedtest.net网速测试、特定服务器的端口延迟测速）
 
 *   [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派教程，树莓派防吃灰小分队，让树莓派不再吃灰~
 
@@ -1904,38 +1936,6 @@
 
 *   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
-## CSS
-
-*   [stpnwf/ZestyTheme](https://github.com/stpnwf/ZestyTheme) - A minimal and elegant theme for Jellyfin
-
-*   [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
-
-*   [zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web) - 微信公众号的关注界面
-
-*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
-
-*   [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard
-
-*   [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
-
-*   [li3zhen1/Fluent-Typora](https://github.com/li3zhen1/Fluent-Typora) - A theme crafted & designed for modern computer screens, inspired by Microsoft Fluent Design System.
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
-
-*   [SinHide/shopping-cart](https://github.com/SinHide/shopping-cart) - A vue.js project for shopping cart.
-
-*   [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
-
-*   [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) - Tomorrow Theme
-
-*   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
-
-*   [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
-
 ## Vue
 
 *   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
@@ -2237,6 +2237,8 @@
 *   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [sirpdboy/luci-app-netspeedtest](https://github.com/sirpdboy/luci-app-netspeedtest) - luci-app-netspeedtest 网速测试JS版（包括：内网Homebox网页测速、内网iperf3吞吐测速、外网Ookla speedtest.net网速测试 ），适配最新官方的OPENWRT。新版测速更精准。日志实时显示。
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
@@ -3103,8 +3105,6 @@
 *   [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
 
 *   [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Blade
 
