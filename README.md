@@ -360,7 +360,7 @@
 
 *   [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 
-*   [gpustack/gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
+*   [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
 
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
@@ -2816,7 +2816,7 @@
 
 *   [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging Broker/Bus for IoT Edge & SDV
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
