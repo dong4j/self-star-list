@@ -1212,7 +1212,7 @@
 
 *   [lets-mica/mica-auto](https://github.com/lets-mica/mica-auto) - mica-auto 使用注解自动生成 java spi 和 Spring boot 的配置。🔝🔝 记得右上角点个star 关注更新！
 
-*   [livk-cloud/spring-boot-extension](https://github.com/livk-cloud/spring-boot-extension) - Spring Boot Starter功能拓展，添加了curator、disruptor、fastexcel、mapstruct、redisson、redisearch等第三方组件的集成，同时搭载JDK 21、SpringBoot 3.4
+*   [livk-cloud/spring-boot-extension](https://github.com/livk-cloud/spring-boot-extension) - Spring Boot Starter功能拓展，添加了curator、disruptor、fastexcel、mapstruct、redisson、redisearch等第三方组件的集成，同时搭载JDK 21、SpringBoot 3.5
 
 *   [gdut-yy/leetcode-hub-java](https://github.com/gdut-yy/leetcode-hub-java) - 基于 java21 + maven3.9 + junit5 + jacoco 的 leetcode + codeforces + atcoder + nowcoder 练习仓库。
 
