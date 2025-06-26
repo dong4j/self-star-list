@@ -68,6 +68,8 @@
 
 *   [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [ideamark/desk-emoji](https://github.com/ideamark/desk-emoji) - Desk-Emoji is a truly open-source AI desktop robot featuring an emoji screen, a two-axis console, and LLM capabilities for voice chat.
 
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -630,7 +632,7 @@
 
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 
-*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
+*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
@@ -791,8 +793,6 @@
 *   [maomao1996/vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
 
 *   [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 
@@ -1182,7 +1182,7 @@
 
 *   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 
-*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 开源短信平台 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
+*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 开源短信平台 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美，合一短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 
 *   [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
 
