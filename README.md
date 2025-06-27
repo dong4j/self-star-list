@@ -586,7 +586,7 @@
 
 *   [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 
-*   [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
+*   [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 
 *   [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 
@@ -704,7 +704,7 @@
 
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 *   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
@@ -1242,7 +1242,7 @@
 
 *   [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 
-*   [newhoo/RestfulBox-Redis](https://github.com/newhoo/RestfulBox-Redis) - a plugin that support redis for RESTKit plugin(RESTKit的扩展，支持存储API到redis和简单的redis命令发送)
+*   [newhoo/RestfulBox-Redis](https://github.com/newhoo/RestfulBox-Redis) - a plugin that support redis for RestfulBox plugin (RestfulBox的扩展，支持简单的redis命令发送)
 
 *   [changmingxie/tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 
