@@ -73,6 +73,8 @@
 
 *   [evalstate/mcp-webcam](https://github.com/evalstate/mcp-webcam) - Capture live images from your webcam with a tool or resource request
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
 *   [wokwi/wokwi-elements](https://github.com/wokwi/wokwi-elements) - Web Components for Electronics and IoT Parts
@@ -368,8 +370,6 @@
 *   [ErlichLiu/DeepClaude](https://github.com/ErlichLiu/DeepClaude) - Unleash Next-Level AI! 🚀  💻 Code Generation: DeepSeek r1 + Claude 3.7 Sonnet - Unparalleled Performance! 📝 Content Creation: DeepSeek r1 + Gemini 2.5 Pro - Superior Quality! 🔌 OpenAI-Compatible. 🌊 Streaming & Non-Streaming Support.  ✨ Experience the Future of AI – Today! Click to Try Now! ✨
 
 *   [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [ideamark/desk-emoji](https://github.com/ideamark/desk-emoji) - Desk-Emoji is a truly open-source AI desktop robot featuring an emoji screen, a two-axis console, and LLM capabilities for voice chat.
 
@@ -1583,7 +1583,7 @@
 
 *   [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，旨在帮助开发者快速实现低代码开发和构建AI 应用。 前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! ！ 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著提高开发效率，又不失灵活性~
 
 *   [zhangxd1989/spring-boot-cloud](https://github.com/zhangxd1989/spring-boot-cloud) - 基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目
 
