@@ -903,8 +903,6 @@
 
 *   [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
 *   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
 *   [mieqq/mieqq](https://github.com/mieqq/mieqq) -
@@ -1573,7 +1571,7 @@
 
 *   [alibaba/metrics](https://github.com/alibaba/metrics) - The metrics library for Apache Dubbo and any frameworks or systems.
 
-*   [chillzhuang/blade-tool](https://github.com/chillzhuang/blade-tool) - SpringBlade 4.0 架构核心工具包，SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 3.2 、Spring Cloud 2023 等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。  官网：https://bladex.cn
+*   [chillzhuang/blade-tool](https://github.com/chillzhuang/blade-tool) - SpringBlade 4.0 架构核心工具包，SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 3.5 、Spring Cloud 2025 等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。  官网：https://bladex.cn
 
 *   [lets-mica/mica](https://github.com/lets-mica/mica) - Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个star 关注更新！
 
@@ -2746,6 +2744,8 @@
 *   [zhheo/halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 简约的导航主题
 
 *   [monkeymademe/CamUI](https://github.com/monkeymademe/CamUI) - CamUI is a WebUI for the Picamera2 Library for the Raspberry Pi
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
 
