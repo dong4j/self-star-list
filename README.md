@@ -1076,7 +1076,7 @@
 
 *   [ityouknow/spring-examples](https://github.com/ityouknow/spring-examples) - Spring Examples
 
-*   [preactjs/preact-www](https://github.com/preactjs/preact-www) - :book: Preact documentation website.
+*   [preactjs/preact-www](https://github.com/preactjs/preact-www) - 📖 Preact documentation website.
 
 *   [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
