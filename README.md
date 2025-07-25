@@ -886,7 +886,7 @@
 
 *   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 
-*   [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+*   [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, Blog and many others
 
 *   [ccbikai/github-og-image](https://github.com/ccbikai/github-og-image) - 提取 Github OpenGraph 图片用于卡片预览
 
@@ -1260,7 +1260,7 @@
 
 *   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 
-*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 开源短信平台 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美，合一短信，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
+*   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美，合一短信，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 
 *   [microsoft/gctoolkit](https://github.com/microsoft/gctoolkit) - Tool for parsing GC logs
 
