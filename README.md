@@ -1992,7 +1992,7 @@
 
 *   [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
 
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 
 *   [gaoxianglong/service-tracing](https://github.com/gaoxianglong/service-tracing) - 基于Dubbo埋点的分布式调用跟踪系统
 
