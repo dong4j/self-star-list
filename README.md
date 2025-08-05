@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
 *   [Python](#python)
+*   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -52,83 +52,9 @@
 *   [Objective-C++](#objective-c-1)
 *   [Erlang](#erlang)
 
-## Kotlin
-
-*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-
-*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
-
-*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
-
-*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
-
-*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
-
-*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
-
-*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
-
-*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
-
-*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
-
-*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
-
-*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-
-*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
-
-*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
-
-*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
-
-*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
-
-*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
-
-*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
-
-*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
-
-*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
-
-*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
-
-*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
-
-*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
-
-*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
-
-*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
-
-*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
-
-*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-
 ## Python
+
+*   [ForceInjection/wechat-llm-example](https://github.com/ForceInjection/wechat-llm-example) - text classification and keywords extraction
 
 *   [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
@@ -477,6 +403,82 @@
 *   [scottming/pinboard\_search\_cli](https://github.com/scottming/pinboard_search_cli) - Search through your pinboard bookmarks on the command-line.
 
 *   [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+
+## Kotlin
+
+*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+
+*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
+
+*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
+
+*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
+
+*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
+
+*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
+
+*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
+
+*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
+
+*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
+
+*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
+
+*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+
+*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
+
+*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
+
+*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
+
+*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
+
+*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
+
+*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
+
+*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
+
+*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
+
+*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
+
+*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
+
+*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
+
+*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
+
+*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
+
+*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
+
+*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ## Vue
 
@@ -2392,8 +2394,6 @@
 
 *   [qibaoguang/Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 
-*   [jobbole/awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
-
 ## Go
 
 *   [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
@@ -2434,7 +2434,7 @@
 
 *   [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
 
-*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
+*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 
 *   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
