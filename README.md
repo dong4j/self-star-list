@@ -1366,8 +1366,6 @@
 
 *   [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
 
-*   [ideamark/desk-emoji](https://github.com/ideamark/desk-emoji) - Desk-Emoji is a truly open-source AI desktop robot featuring an emoji screen, a two-axis console, and LLM capabilities for voice chat.
-
 *   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 
 *   [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
@@ -2879,6 +2877,8 @@
 *   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A socks5 server (Linux/Android/BSD/macOS/iOS/Windows)
 
 *   [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
+
+*   [ideamark/desk-emoji](https://github.com/ideamark/desk-emoji) - Desk-Emoji is a truly open-source AI desktop robot featuring an emoji screen, a two-axis console, and LLM capabilities for voice chat.
 
 *   [sepfy/libpeer](https://github.com/sepfy/libpeer) - WebRTC Library for IoT/Embedded Device using C
 
