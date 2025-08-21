@@ -1356,7 +1356,7 @@
 
 *   [firecrawl/Open-WebUI-Pipelines](https://github.com/firecrawl/Open-WebUI-Pipelines) - Open-WebUI-Pipelines is a collection of custom pipelines for Firecrawl API, designed to enhance Open WebUI.
 
-*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - 高效订阅微信公众号，微信公众号订阅，更新最新文章，并生成RSS书签，支持Webhook/API接入
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - 订阅微信公众号  定时更新订阅公众号文章，并生成微信公众号RSS订阅源，支持Webhook/API/AI Agent接入微信公众号
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 
@@ -3148,7 +3148,7 @@
 
 *   [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
 
-*   [trycua/cua](https://github.com/trycua/cua) - Cua is the Docker Container for Computer-Use AI Agents.
+*   [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 
 *   [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
 
