@@ -490,7 +490,7 @@
 
 *   [chflame163/ComfyUI\_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 
-*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
+*   [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging\_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 
 *   [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
 
