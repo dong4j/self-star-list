@@ -1172,7 +1172,7 @@
 
 *   [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。
 
-*   [Eternaldeath/AIProductHome](https://github.com/Eternaldeath/AIProductHome) - Collect various AI products | 搜集各种 AI 工具
+*   [Eternaldeath/AIProductHome](https://github.com/Eternaldeath/AIProductHome) - Collect various AI products | 搜集各种 AI 工具和产品
 
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
