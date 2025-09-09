@@ -1398,7 +1398,7 @@
 
 *   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
-*   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
+*   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
 *   [makemyownlife/platform-sms](https://github.com/makemyownlife/platform-sms) - 基于 SpringBoot开发的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美，合一短信，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 
@@ -2658,7 +2658,7 @@
 
 *   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementation for many programming languages
 
 *   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
 
