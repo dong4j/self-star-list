@@ -2886,7 +2886,7 @@
 
 ## C
 
-*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A socks5 server (Linux/Android/BSD/macOS/iOS/Windows)
+*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
 
 *   [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 
