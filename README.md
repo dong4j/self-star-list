@@ -836,6 +836,8 @@
 
 *   [lets-blade/blade-patchca](https://github.com/lets-blade/blade-patchca) -
 
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+
 *   [llohellohe/zookeeper](https://github.com/llohellohe/zookeeper) - 分布式系统服务ZooKeeper的学习历程
 
 *   [yujiasun/Distributed-Kit](https://github.com/yujiasun/Distributed-Kit) - Distributed lock implementation using Redis and Zookeeper.基于redis和zookeeper分布式工具集-包括:分布式锁实现,分布式速率限制器,分布式序列等
@@ -1622,7 +1624,7 @@
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
-*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+*   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
 *   [loyal888/copy2android](https://github.com/loyal888/copy2android) -
 
@@ -2269,8 +2271,6 @@
 *   [CloudGateRules/Potatso2](https://github.com/CloudGateRules/Potatso2) -
 
 *   [niezhiyang/open\_source\_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
-
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 
 *   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 
