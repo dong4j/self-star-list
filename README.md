@@ -836,8 +836,6 @@
 
 *   [lets-blade/blade-patchca](https://github.com/lets-blade/blade-patchca) -
 
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-
 *   [llohellohe/zookeeper](https://github.com/llohellohe/zookeeper) - 分布式系统服务ZooKeeper的学习历程
 
 *   [yujiasun/Distributed-Kit](https://github.com/yujiasun/Distributed-Kit) - Distributed lock implementation using Redis and Zookeeper.基于redis和zookeeper分布式工具集-包括:分布式锁实现,分布式速率限制器,分布式序列等
@@ -1716,7 +1714,7 @@
 
 *   [gongjianhui/AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。\[已停止更新，请慎用。]
 
-*   [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+*   [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 
 *   [scottming/pinboard\_search\_cli](https://github.com/scottming/pinboard_search_cli) - Search through your pinboard bookmarks on the command-line.
 
@@ -2032,7 +2030,7 @@
 
 *   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 
-*   [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+*   [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
@@ -2271,6 +2269,8 @@
 *   [CloudGateRules/Potatso2](https://github.com/CloudGateRules/Potatso2) -
 
 *   [niezhiyang/open\_source\_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
+
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 
 *   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 
