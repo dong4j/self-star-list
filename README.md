@@ -1366,7 +1366,7 @@
 
 *   [Alen-gao/IM-Socket.io](https://github.com/Alen-gao/IM-Socket.io) - 基于socket.io和electron  开发的一个即时聊天
 
-*   [leelance/spring-boot-all](https://github.com/leelance/spring-boot-all) - spring-boot,mybatis,activemq,redis,email, freemarker,shiro,websocket,sitemesh,ehcache,easyui,kindeditor,quartz,springfox,swagger,jpa,hibernate,querydsl,netty
+*   [leehaut/spring-boot-all](https://github.com/leehaut/spring-boot-all) - spring-boot,mybatis,activemq,redis,email, freemarker,shiro,websocket,sitemesh,ehcache,easyui,kindeditor,quartz,springfox,swagger,jpa,hibernate,querydsl,netty
 
 ## Python
 
