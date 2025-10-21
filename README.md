@@ -298,8 +298,6 @@
 
 *   [rbmonster/learning-note](https://github.com/rbmonster/learning-note) - Java开发及面试（个人面试、工作总结、资料收集站）
 
-*   [bes2008/audit](https://github.com/bes2008/audit) - A common audit framework for java application
-
 *   [dromara/cubic](https://github.com/dromara/cubic) - 一站式问题定位平台，分布式实例监控、线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题
 
 *   [apache/skywalking-java](https://github.com/apache/skywalking-java) - The Java agent for Apache SkyWalking
@@ -383,8 +381,6 @@
 *   [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
 
 *   [bbossgroups/bboss-elasticsearch](https://github.com/bbossgroups/bboss-elasticsearch) - the best elasticsearch highlevel java rest client api-----bboss
-
-*   [bes2008/langx-java](https://github.com/bes2008/langx-java) - Java tools, helper, common utilities.  A replacement of guava, apache-commons, hutool
 
 *   [eirslett/frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin) - "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma.
 
@@ -1016,6 +1012,8 @@
 
 *   [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 
+*   [bieberHe/dubbo-plus](https://github.com/bieberHe/dubbo-plus) -
+
 ## JavaScript
 
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1367,6 +1365,8 @@
 *   [Alen-gao/IM-Socket.io](https://github.com/Alen-gao/IM-Socket.io) - 基于socket.io和electron  开发的一个即时聊天
 
 *   [leehaut/spring-boot-all](https://github.com/leehaut/spring-boot-all) - spring-boot,mybatis,activemq,redis,email, freemarker,shiro,websocket,sitemesh,ehcache,easyui,kindeditor,quartz,springfox,swagger,jpa,hibernate,querydsl,netty
+
+*   [dubboclub/dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
 
 ## Python
 
