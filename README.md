@@ -376,7 +376,7 @@
 
 *   [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 
-*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 
 *   [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
@@ -1396,8 +1396,6 @@
 
 *   [sirpdboy/luci-app-netspeedtest](https://github.com/sirpdboy/luci-app-netspeedtest) - luci-app-netspeedtest 网速测试JS版（包括：内网Homebox网页测速、内网iperf3吞吐测速、外网Ookla speedtest.net网速测试 ），适配最新官方的OPENWRT。新版测速更精准。日志实时显示。
 
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
 *   [xlvecle/Bark-Chrome-Extension](https://github.com/xlvecle/Bark-Chrome-Extension) - Chrome Extension for Bark. Bark is an iOS App which allows you to push customed notifications to your iPhone
 
 *   [moeyua/utools-bark](https://github.com/moeyua/utools-bark) - 通过 bark 将消息作为通知发送到 ios
@@ -2161,6 +2159,8 @@
 *   [atorber/chatflow](https://github.com/atorber/chatflow) - 一个使用wechaty构建的机器人业务管理平台
 
 *   [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
