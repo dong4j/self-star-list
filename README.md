@@ -1898,7 +1898,7 @@
 
 *   [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 
-*   [DOClever/DOClever](https://github.com/DOClever/DOClever) - 做最好的接口管理平台
+*   [mrwill84/DOClever](https://github.com/mrwill84/DOClever) - 做最好的接口管理平台
 
 *   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
 
@@ -2182,7 +2182,7 @@
 
 *   [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
 
-*   [hellodigua/code996](https://github.com/hellodigua/code996) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
+*   [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
 
 *   [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 
@@ -3308,7 +3308,7 @@
 
 ## Mermaid
 
-*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
+*   [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes 架构与生态：从云原生到 AI 原生基础设施的构建指南
 
 ## Blade
 
