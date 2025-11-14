@@ -1776,6 +1776,8 @@
 
 *   [YinHangCode/homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara) - a homebridge plugin for XiaoMi Aqara plugin.
 
+*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+
 *   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
 *   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
@@ -2190,7 +2192,7 @@
 
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 
@@ -2226,7 +2228,7 @@
 
 *   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 
-*   [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
+*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
@@ -2490,7 +2492,7 @@
 
 *   [aterai/java-swing-tips](https://github.com/aterai/java-swing-tips) - Java Swing example.
 
-*   [learn-anything/alfred-workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+*   [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 
 *   [ifyour/Hosts-for-Surge](https://github.com/ifyour/Hosts-for-Surge) - 🌟 Hosts for Internet Freedom
 
@@ -2579,8 +2581,6 @@
 *   [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 
 *   [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design) - 本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。
-
-*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 
 *   [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）
 
