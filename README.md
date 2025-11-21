@@ -398,7 +398,7 @@
 
 *   [hanger-source/swagger-more](https://github.com/hanger-source/swagger-more) - Dubbo Swagger, 自动化DUBBO API文档 （扩展springfox swagger2）
 
-*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-22 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 
 *   [mojohaus/build-helper-maven-plugin](https://github.com/mojohaus/build-helper-maven-plugin) - Build Helper Maven Plugin
 
@@ -1354,7 +1354,7 @@
 
 *   [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
 
-*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Uptime monitoring & API monitoring as code with status page 🫖
+*   [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 
 *   [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - Localhost SSL Proxy Server Manager using Docker
 
@@ -1552,7 +1552,7 @@
 
 *   [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
 
-*   [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度
+*   [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - code996 web版
 
 *   [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 
