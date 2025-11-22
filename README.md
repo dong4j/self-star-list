@@ -50,7 +50,6 @@
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
 *   [Objective-C++](#objective-c-1)
-*   [Erlang](#erlang)
 
 ## Java
 
@@ -922,8 +921,6 @@
 
 *   [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document\_detail/137663.html) 团队出品，为监控而生的数据库连接池
 
-*   [apereo/cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
-
 ## Python
 
 *   [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -1311,6 +1308,8 @@
 *   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 *   [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - improved fork of nginx-proxy-manager
+
+*   [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 
 *   [Jeamee/MCPHub-Desktop](https://github.com/Jeamee/MCPHub-Desktop) - Desktop APP for Discover and Install MCP Servers
 
@@ -2254,6 +2253,8 @@
 
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
 *   [enify/lcd4linux-doc](https://github.com/enify/lcd4linux-doc) - LCD4Linux 中文文档(部分翻译)。
 
 *   [ccbikai/Git.Bio](https://github.com/ccbikai/Git.Bio) - Turn your GitHub into a Biography
@@ -2636,7 +2637,7 @@
 
 *   [mdp/qrterminal](https://github.com/mdp/qrterminal) - QR Codes in your terminal
 
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 
 *   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
 
@@ -3337,7 +3338,3 @@
 ## Objective-C++
 
 *   [google/santa](https://github.com/google/santa) - A binary authorization and monitoring system for macOS
-
-## Erlang
-
-*   [dengyuankai272/rabbitmq-server-cluster](https://github.com/dengyuankai272/rabbitmq-server-cluster) - rabbitmq server cluster docker image
