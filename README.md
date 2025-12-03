@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -13,7 +14,6 @@
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Swift](#swift)
-*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [MDX](#mdx)
 *   [miscellaneous](#miscellaneous)
@@ -49,6 +49,88 @@
 *   [CoffeeScript](#coffeescript)
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
+
+## Kotlin
+
+*   [x0x0b/codex-launcher](https://github.com/x0x0b/codex-launcher) - 🧩 One-click Codex launcher for IntelliJ
+
+*   [cpjet64/CodexJetbrains](https://github.com/cpjet64/CodexJetbrains) -
+
+*   [epm-dev-priporov/idea-notes](https://github.com/epm-dev-priporov/idea-notes) - Intellij Idea based IDE plugin for making notes in simple and convenient way.
+
+*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+
+*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
+
+*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
+
+*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
+
+*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
+
+*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
+
+*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
+
+*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
+
+*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
+
+*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
+
+*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+
+*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
+
+*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
+
+*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
+
+*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
+
+*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
+
+*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
+
+*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
+
+*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
+
+*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
+
+*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
+
+*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
+
+*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
+
+*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
+
+*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
+
+*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
 
 ## Ruby
 
@@ -2050,84 +2132,6 @@
 
 *   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 
-## Kotlin
-
-*   [epm-dev-priporov/idea-notes](https://github.com/epm-dev-priporov/idea-notes) - Intellij Idea based IDE plugin for making notes in simple and convenient way.
-
-*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-
-*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
-
-*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
-
-*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
-
-*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
-
-*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
-
-*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
-
-*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
-
-*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
-
-*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
-
-*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-
-*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
-
-*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
-
-*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
-
-*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
-
-*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
-
-*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
-
-*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
-
-*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
-
-*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
-
-*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
-
-*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
-
-*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
-
-*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
-
-*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
-
-*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-
 ## JavaScript
 
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -3070,8 +3074,6 @@
 
 *   [snooda/net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 
-*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-
 ## C++
 
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -3305,8 +3307,6 @@
 *   [hschmidt/EnvPane](https://github.com/hschmidt/EnvPane) - EnvPane - An OS X preference pane for environment variables
 
 *   [jkpang/PPRows](https://github.com/jkpang/PPRows) - It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码
-
-*   [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 
 ## Mermaid
 
