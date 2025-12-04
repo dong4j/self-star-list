@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Python](#python)
 *   [Java](#java)
@@ -50,109 +50,11 @@
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
 
-## Kotlin
-
-*   [x0x0b/codex-launcher](https://github.com/x0x0b/codex-launcher) - 🧩 One-click Codex launcher for IntelliJ
-
-*   [cpjet64/CodexJetbrains](https://github.com/cpjet64/CodexJetbrains) -
-
-*   [epm-dev-priporov/idea-notes](https://github.com/epm-dev-priporov/idea-notes) - Intellij Idea based IDE plugin for making notes in simple and convenient way.
-
-*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
-
-*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
-
-*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
-
-*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
-
-*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
-
-*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
-
-*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
-
-*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
-
-*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
-
-*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
-
-*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
-
-*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-
-*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
-
-*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-
-*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
-
-*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
-
-*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
-
-*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
-
-*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
-
-*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
-
-*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
-
-*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
-
-*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
-
-*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
-
-*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
-
-*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
-
-*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
-
-*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
-
-*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-
-*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-
-*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-
-*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
-
-*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
-
-## Ruby
-
-*   [slopus/homebrew-tap](https://github.com/slopus/homebrew-tap) - Homebrew tap for Happy CLI
-
-*   [soulteary/Home-Network-Note](https://github.com/soulteary/Home-Network-Note) - 🚧 持续更新 🚧 记录搭建兼顾学习娱乐的家用网络环境的过程，折腾过的一些软硬件小经验。
-
-*   [jin5354/alfred3-workflow-CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - This alfred3 workflow can convert currency conveniently.
-
-*   [birdben/birdDocker](https://github.com/birdben/birdDocker) - Docker相关配置
-
-*   [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
-
-*   [lululau/proxy-switcher-alfred-workflow](https://github.com/lululau/proxy-switcher-alfred-workflow) - An Alfred.app workflow for switching proxy options of Mac OS X
-
-*   [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
-
-*   [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-
-*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-
 ## TypeScript
+
+*   [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+
+*   [tuannvm/codex-mcp-server](https://github.com/tuannvm/codex-mcp-server) - MCP server wrapper for OpenAI Codex CLI that enables Claude Code to leverage Codex's AI capabilities directly.
 
 *   [slopus/website](https://github.com/slopus/website) - landing page
 
@@ -328,6 +230,8 @@
 
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
 *   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
@@ -452,7 +356,7 @@
 
 *   [nodegui/vue-nodegui](https://github.com/nodegui/vue-nodegui) - Build performant, native and cross-platform desktop applications with native Vue + powerful CSS like styling.🚀
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
@@ -479,6 +383,108 @@
 *   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+
+## Kotlin
+
+*   [x0x0b/codex-launcher](https://github.com/x0x0b/codex-launcher) - 🧩 One-click Codex launcher for IntelliJ
+
+*   [cpjet64/CodexJetbrains](https://github.com/cpjet64/CodexJetbrains) -
+
+*   [epm-dev-priporov/idea-notes](https://github.com/epm-dev-priporov/idea-notes) - Intellij Idea based IDE plugin for making notes in simple and convenient way.
+
+*   [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
+
+*   [icylian/MDPings](https://github.com/icylian/MDPings) - A simple android client for nezha.
+
+*   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
+
+*   [tytydraco/PDNSQS](https://github.com/tytydraco/PDNSQS) - Private DNS QuickSettings toggle for Android 9.0+
+
+*   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional/semantic commits.
+
+*   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [dengshiwei/asm-module](https://github.com/dengshiwei/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
+
+*   [zielu/GitToolBox](https://github.com/zielu/GitToolBox) - GitToolBox IntelliJ plugin
+
+*   [ermadan/zoolytic](https://github.com/ermadan/zoolytic) - Intellij IDEA Zookeeper plugin
+
+*   [ermadan/kafkalytic](https://github.com/ermadan/kafkalytic) - Intellij IDEA Kafka plugin
+
+*   [judasn/ChineseTypography-IDEA-Plugin](https://github.com/judasn/ChineseTypography-IDEA-Plugin) - 我常用 IntelliJ IDEA 进行写作，开发此插件可以快速对文章内容的中文、英文、符号之间增加空格，增加文章可读性。
+
+*   [docToolchain/diagrams.net-intellij-plugin](https://github.com/docToolchain/diagrams.net-intellij-plugin) - An IntelliJ plugin which allows you to edit diagrams.net (formerly known as draw.io) diagrams directly in IntelliJ!
+
+*   [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+
+*   [JetBrains/projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely
+
+*   [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+*   [dkandalov/live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing IntelliJ plugins at runtime ⚡️
+
+*   [AtomMaterialUI/a-file-icon-idea](https://github.com/AtomMaterialUI/a-file-icon-idea) - Atom Material Icons for JetBrains - Replace File and UI Icons for better visual grepping.
+
+*   [viartemev/requestmapper](https://github.com/viartemev/requestmapper) - 🔍  Request mapper is a plugin for IntelliJ IDEA for quick navigation to URL mapping declarations
+
+*   [stachenov/maven-dependency-updater](https://github.com/stachenov/maven-dependency-updater) - Maven Dependency Updater plugin for IntelliJ platform
+
+*   [skubicz/maven-executor-plugin](https://github.com/skubicz/maven-executor-plugin) -
+
+*   [shenluw/intellij-dubbo-plugin](https://github.com/shenluw/intellij-dubbo-plugin) - dubbo 接口调试插件,可以直接调用已注册的接口
+
+*   [ben-gibson/GitLink](https://github.com/ben-gibson/GitLink) - A Jetbrains plugin that opens a local file under Git version control in its remote host using the default browser.
+
+*   [jimschubert/intellij-openapi-generator](https://github.com/jimschubert/intellij-openapi-generator) - Intellij Plugin for openapi-generator
+
+*   [hadix-lin/springfox-plus](https://github.com/hadix-lin/springfox-plus) - A Extension of Springfox, supports Read Javadoc as API document
+
+*   [YiiGuxing/material-design-color-palette](https://github.com/YiiGuxing/material-design-color-palette) - :art:Material Design color palette pluin for IntelliJ based IDEs.
+
+*   [YiiGuxing/intellij-figlet](https://github.com/YiiGuxing/intellij-figlet) - :electric\_plug:A FIGlet-based ASCII Art generation plugin for IntelliJ based IDEs.
+
+*   [liujingxing/rxhttp](https://github.com/liujingxing/rxhttp) -  🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.
+
+*   [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) - .ignore support plugin for IntelliJ IDEA
+
+*   [vsch/idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) - Markdown language support for IntelliJ IDEA.
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [liuwill-projects/SpringBootKotlin](https://github.com/liuwill-projects/SpringBootKotlin) - 🍀 Just use kotlin with spring boot
+
+*   [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+*   [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
+
+*   [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+
+*   [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer for IntelliJ  🍅⏲
+
+*   [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin) - Gradle plugin for building plugins for JetBrains IDEs
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ-based IDEs/Android Studio.
+
+## Ruby
+
+*   [slopus/homebrew-tap](https://github.com/slopus/homebrew-tap) - Homebrew tap for Happy CLI
+
+*   [soulteary/Home-Network-Note](https://github.com/soulteary/Home-Network-Note) - 🚧 持续更新 🚧 记录搭建兼顾学习娱乐的家用网络环境的过程，折腾过的一些软硬件小经验。
+
+*   [jin5354/alfred3-workflow-CurrencyConvert](https://github.com/jin5354/alfred3-workflow-CurrencyConvert) - This alfred3 workflow can convert currency conveniently.
+
+*   [birdben/birdDocker](https://github.com/birdben/birdDocker) - Docker相关配置
+
+*   [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+
+*   [lululau/proxy-switcher-alfred-workflow](https://github.com/lululau/proxy-switcher-alfred-workflow) - An Alfred.app workflow for switching proxy options of Mac OS X
+
+*   [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
+
+*   [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
+
+*   [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 
 ## Go
 
@@ -1056,8 +1062,6 @@
 
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather
 
-*   [gongjianhui/AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。\[已停止更新，请慎用。]
-
 ## Java
 
 *   [dong4j/spring-ai-cookbook](https://github.com/dong4j/spring-ai-cookbook) - A tutorial project based on spring-ai 1.1.0 \[Make Java Great Again]
@@ -1075,8 +1079,6 @@
 *   [houxinlin/cool-request](https://github.com/houxinlin/cool-request) - IDEA API、Java Method  debug tools
 
 *   [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [ollama4j/ollama4j](https://github.com/ollama4j/ollama4j) - A simple Java library for interacting with Ollama server.
 
@@ -2129,8 +2131,6 @@
 *   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 
 *   [toolinbox/iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
-
-*   [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 
 ## JavaScript
 
