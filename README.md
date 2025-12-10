@@ -52,6 +52,8 @@
 
 ## Java
 
+*   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+
 *   [github-2013/intellij-awesome-console-x](https://github.com/github-2013/intellij-awesome-console-x) - IntelliJ IDEA plugin: awesome console finally makes links in your console at least 200% more awesome!
 
 *   [dong4j/spring-ai-cookbook](https://github.com/dong4j/spring-ai-cookbook) - A tutorial project based on spring-ai 1.1.0 \[Make Java Great Again]
@@ -2563,8 +2565,6 @@
 *   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 
 *   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-
-*   [toolinbox/iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
 
 ## MDX
 
