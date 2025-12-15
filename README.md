@@ -170,7 +170,7 @@
 
 *   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
 
 *   [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 
@@ -2582,7 +2582,7 @@
 
 *   [flyeric0212/cursor-rules](https://github.com/flyeric0212/cursor-rules) - 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。
 
-*   [xiaomabenten/system\_architect](https://github.com/xiaomabenten/system_architect) - 💯2025年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。
+*   [xiaomabenten/system\_architect](https://github.com/xiaomabenten/system_architect) - 💯2026年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。
 
 *   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
