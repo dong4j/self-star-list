@@ -696,8 +696,6 @@
 
 *   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
 *   [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) - TTS with kokoro and onnx runtime
 
 *   [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
@@ -2605,6 +2603,8 @@
 *   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
 *   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 *   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 
