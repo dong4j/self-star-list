@@ -1486,7 +1486,7 @@
 
 *   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 
-*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
