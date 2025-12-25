@@ -74,6 +74,8 @@
 
 *   [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
 
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
 *   [ollama4j/ollama4j](https://github.com/ollama4j/ollama4j) - A simple Java library for interacting with Ollama server.
 
 *   [Liubsyy/HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient(IDEA热部署插件)和HotSecondsServer(服务端javaagent热更新插件)，可以热更新java和常用配置文件，也支持常用框架(Spring，MyBatis)的热更新，相对传统部署可节省大量时间提高开发效率。
@@ -86,7 +88,7 @@
 
 *   [houbb/sensitive](https://github.com/houbb/sensitive) - 🔐Sensitive log tool for java, based on java annotation. (基于注解的 java 日志脱敏工具框架，更加优雅的日志打印。支持自定义哈希、支持基于 log4j2 插件的统一脱敏、支持 logback 插件统一脱敏)
 
-*   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+*   [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - An open-source BI and REPORT tool alternative to Tableau and JasperReports, offering powerful reporting capabilities. 一款类似Excel的低代码报表工具和大屏设计器！完全在线傻瓜式设计，高效的降低报表开发难度，解决各类报表难题。
 
 *   [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 
@@ -506,7 +508,7 @@
 
 *   [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！ 成熟的AI应用平台：涵盖AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等，兼容多种大模型；提供强大代码生成器：实现前后端一键生成，无需手写代码! 引领AI开发模式：AI生成→在线配置→代码生成→手工合并，解决Java项目80%重复工作，提升效率节省成本，又不失灵活~
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
 
 *   [zhangxd1989/spring-boot-cloud](https://github.com/zhangxd1989/spring-boot-cloud) - 基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目
 
@@ -1334,8 +1336,6 @@
 
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
 *   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -1486,7 +1486,7 @@
 
 *   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
 
-*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
+*   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
@@ -3046,7 +3046,7 @@
 
 *   [cntools/cnping](https://github.com/cntools/cnping) - Minimal Graphical Ping Tool
 
-*   [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast Messaging Broker/Bus for IoT Edge & SDV
+*   [nanomq/nanomq](https://github.com/nanomq/nanomq) - An ultra-lightweight and blazing-fast MQTT Messaging Broker/Bus for IoT Edge & SDV
 
 *   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
