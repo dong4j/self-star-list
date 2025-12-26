@@ -1442,7 +1442,7 @@
 
 *   [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
 
-*   [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - code996 web版
+*   [hellodigua/code996-web](https://github.com/hellodigua/code996-web) - code996 web端实现
 
 *   [phuctm97/shell.how](https://github.com/phuctm97/shell.how) - Explain shell commands using next-generation autocomplete Fig.
 
