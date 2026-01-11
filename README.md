@@ -512,7 +512,7 @@
 
 *   [hanger-source/swagger-more](https://github.com/hanger-source/swagger-more) - Dubbo Swagger, 自动化DUBBO API文档 （扩展springfox swagger2）
 
-*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-24 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+*   [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 
 *   [mojohaus/build-helper-maven-plugin](https://github.com/mojohaus/build-helper-maven-plugin) - Build Helper Maven Plugin
 
@@ -1086,7 +1086,7 @@
 
 *   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
-*   [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+*   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 
 ## Go
 
