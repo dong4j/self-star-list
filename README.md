@@ -1832,7 +1832,7 @@
 
 *   [Jeff2Ma/launchd-with-networkchange](https://github.com/Jeff2Ma/launchd-with-networkchange) - A tool with shell script and launchd to trigger actions whenever a Mac's network information is changed.
 
-*   [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
+*   [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具，支持热词、LLM处理。
 
 *   [alfred-workflow-collections/password](https://github.com/alfred-workflow-collections/password) - 生成随机密码
 
