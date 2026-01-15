@@ -172,7 +172,7 @@
 
 *   [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
-*   [zeka-stack/zeka-idea-plugin](https://github.com/zeka-stack/zeka-idea-plugin) - Created by shell script
+*   [zeka-stack/zeka-idea-plugin](https://github.com/zeka-stack/zeka-idea-plugin) - 一个 IDEA Plugin 项目, 包含多个使用的小插件
 
 *   [Link-Kou/intellij-treeInfotip](https://github.com/Link-Kou/intellij-treeInfotip) - IDEA项目结构树中的节点添加显示自定义备注文本IDEA DirectoryNode adds custom text for display
 
