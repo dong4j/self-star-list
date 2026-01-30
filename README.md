@@ -742,7 +742,7 @@
 
 *   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
 
-*   [bootcs-dev/okcache](https://github.com/bootcs-dev/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
+*   [bootcs-cn/okcache](https://github.com/bootcs-cn/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
 
 *   [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 
@@ -2770,9 +2770,9 @@
 
 *   [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
-*   [bootcs-dev/engineer\_competency\_framework](https://github.com/bootcs-dev/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [bootcs-cn/engineer\_competency\_framework](https://github.com/bootcs-cn/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
 
-*   [bootcs-dev/staffjoy-ppt](https://github.com/bootcs-dev/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
+*   [bootcs-cn/staffjoy-ppt](https://github.com/bootcs-cn/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
 
 *   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 
