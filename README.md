@@ -184,7 +184,7 @@
 
 *   [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 
-*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents. Connect any agent framework to Chat, Generative UI, Frontend Tools, Human-in-the-Loop and Shared State. React & Angular supported.
+*   [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 
 *   [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 
@@ -2552,8 +2552,6 @@
 
 *   [lppedd/idea-conventional-commit](https://github.com/lppedd/idea-conventional-commit) - Context and template-based completion for conventional commits.
 
-*   [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
-
 *   [wangzhaoming/zoolytic](https://github.com/wangzhaoming/zoolytic) - Intellij IDEA Zookeeper plugin
 
 *   [andoter0501/asm-module](https://github.com/andoter0501/asm-module) - ✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。
@@ -3115,6 +3113,8 @@
 *   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 *   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 *   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 
