@@ -2772,7 +2772,7 @@
 
 *   [cc63/ICON](https://github.com/cc63/ICON) - 适用于Sub-Store的图标库
 
-*   [BitRemote-Team/BitRemote](https://github.com/BitRemote-Team/BitRemote) - A downloaders remote app for Apple platforms built with SwiftUI & TCA.
+*   [BitRemoteApp/BitRemote](https://github.com/BitRemoteApp/BitRemote) - A downloaders remote app for Apple platforms built with SwiftUI & TCA.
 
 *   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 
