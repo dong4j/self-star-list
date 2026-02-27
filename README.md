@@ -146,8 +146,6 @@
 
 *   [techulus/changes-page](https://github.com/techulus/changes-page) - Changelog simplified.
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
 *   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -890,7 +888,7 @@
 
 *   [mouzt/mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
 
-*   [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2025 、Spring Boot 4、 OAuth2 的 RBAC 权限管理系统;  问题反馈：http://issue.pig4cloud.com
+*   [pig-mesh/pig](https://github.com/pig-mesh/pig) - ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
 
 *   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
 
@@ -1928,6 +1926,8 @@
 
 *   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2246,7 +2246,7 @@
 
 *   [mgbq/nx-admin](https://github.com/mgbq/nx-admin) -  👍 A magical   🐮  ⚔  vue admin，记得star
 
-*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
+*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Free Vue Admin & Dashboard Template Built for AI-Assisted Development
 
 *   [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
 
