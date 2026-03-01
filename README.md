@@ -34,6 +34,7 @@
 *   [Lua](#lua)
 *   [XSLT](#xslt)
 *   [Dart](#dart)
+*   [Makefile](#makefile)
 *   [Zig](#zig)
 *   [Scala](#scala)
 *   [Stylus](#stylus)
@@ -481,6 +482,8 @@
 *   [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 
 *   [techulus/changes-page](https://github.com/techulus/changes-page) - Changelog simplified.
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
@@ -2260,8 +2263,6 @@
 
 *   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2719,8 +2720,6 @@
 *   [miantiao-me/Git.Bio](https://github.com/miantiao-me/Git.Bio) - Turn your GitHub into a Biography
 
 *   [cssmagic/Awesome-AI](https://github.com/cssmagic/Awesome-AI) - 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。
-
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 *   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
@@ -3212,7 +3211,7 @@
 
 ## XSLT
 
-*   [erdaltoprak/erdaltoprak.com](https://github.com/erdaltoprak/erdaltoprak.com) - Personal website with Astro and Cloudflare Pages
+*   [erdaltoprak/erdaltoprak.com](https://github.com/erdaltoprak/erdaltoprak.com) - Personal website with Astro 5
 
 ## Dart
 
@@ -3235,6 +3234,10 @@
 *   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## Makefile
+
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Zig
 
