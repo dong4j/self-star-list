@@ -263,8 +263,6 @@
 
 *   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
-
 *   [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 
 *   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
@@ -1374,6 +1372,8 @@
 *   [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 
 *   [andeya/faygo](https://github.com/andeya/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
 
