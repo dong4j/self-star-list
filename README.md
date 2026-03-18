@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -28,7 +29,6 @@
 *   [C++](#c-1)
 *   [Astro](#astro)
 *   [PHP](#php)
-*   [Svelte](#svelte)
 *   [Elixir](#elixir)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
@@ -50,6 +50,12 @@
 *   [CoffeeScript](#coffeescript)
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
+
+## Svelte
+
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Vue
 
@@ -175,7 +181,7 @@
 
 *   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
 
-*   [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 *   [anzhiyu-c/anzhiyu-c](https://github.com/anzhiyu-c/anzhiyu-c) - This is My Personal profile
 
@@ -939,7 +945,7 @@
 
 *   [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 
@@ -1329,7 +1335,7 @@
 
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
 
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 
 *   [C5H12O5/syno-videoinfo-plugin](https://github.com/C5H12O5/syno-videoinfo-plugin) - A simple web scraping plugin for Synology Video Station
 
@@ -1695,7 +1701,7 @@
 
 *   [chaitin/blazehttp](https://github.com/chaitin/blazehttp) - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 
 *   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 
@@ -2957,8 +2963,6 @@
 
 *   [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 
-*   [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-
 ## MDX
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
@@ -3162,10 +3166,6 @@
 *   [xiebruce/PicUploader](https://github.com/xiebruce/PicUploader) - 一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。
 
 *   [sydlawrence/alfred-dev-doctor](https://github.com/sydlawrence/alfred-dev-doctor) - A dev documentation finder for alfred
-
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Elixir
 
