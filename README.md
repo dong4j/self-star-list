@@ -67,7 +67,7 @@
 
 *   [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 
-*   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+*   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
 *   [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React.
 
@@ -433,7 +433,7 @@
 
 *   [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
-*   [ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide) - Complete guide explaining how to build and run a virtualized small Kubernetes cluster with a single Proxmox VE standalone node on a single computer.
+*   [ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide) - Complete guide explaining how to build and run a virtualized small Kubernetes cluster with one Proxmox VE standalone node on a single computer.
 
 *   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 
@@ -557,7 +557,7 @@
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 *   [hyqf98/dataset\_manager](https://github.com/hyqf98/dataset_manager) - 数据集标记平台
 
@@ -1005,7 +1005,7 @@
 
 *   [BitRemoteApp/BitRemote](https://github.com/BitRemoteApp/BitRemote) - A downloaders remote app for Apple platforms built with SwiftUI & TCA.
 
-*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
+*   [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
 
 *   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 
