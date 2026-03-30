@@ -421,15 +421,13 @@
 
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
-*   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries and other code
+*   [nikivdev/ts](https://github.com/nikivdev/ts) - TS tools, libraries
 
 *   [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ## Shell
 
@@ -1057,9 +1055,9 @@
 
 *   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
 
-*   [spring2go/engineer\_competency\_framework](https://github.com/spring2go/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [craftcs/engineer\_competency\_framework](https://github.com/craftcs/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
 
-*   [spring2go/staffjoy-ppt](https://github.com/spring2go/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
+*   [craftcs/staffjoy-ppt](https://github.com/craftcs/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
 
 *   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 
@@ -2075,7 +2073,7 @@
 
 *   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
 
-*   [spring2go/okcache](https://github.com/spring2go/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
+*   [craftcs/okcache](https://github.com/craftcs/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
 
 *   [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 
@@ -2509,7 +2507,7 @@
 
 *   [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 *   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
@@ -2602,6 +2600,8 @@
 *   [melin/super-diamond](https://github.com/melin/super-diamond) - 配置管理系统
 
 *   [google/allocation-instrumenter](https://github.com/google/allocation-instrumenter) - A Java agent that rewrites bytecode to instrument allocation sites
+
+*   [xwjie/ElementVueSpringbootCodeTemplate](https://github.com/xwjie/ElementVueSpringbootCodeTemplate) - 使用Vue+VueX+ElementUI+SpringBoot的代码框架
 
 *   [xwjie/ElementVueSpringbootCodeTemplate](https://github.com/xwjie/ElementVueSpringbootCodeTemplate) - 使用Vue+VueX+ElementUI+SpringBoot的代码框架
 
