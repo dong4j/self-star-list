@@ -191,9 +191,9 @@
 
 *   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
 
-*   [craftcs/engineer\_competency\_framework](https://github.com/craftcs/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [bootcraft-dev/engineer\_competency\_framework](https://github.com/bootcraft-dev/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
 
-*   [craftcs/staffjoy-ppt](https://github.com/craftcs/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
+*   [bootcraft-dev/staffjoy-ppt](https://github.com/bootcraft-dev/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
 
 *   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 
@@ -565,8 +565,6 @@
 
 *   [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
 
-*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-
 *   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 
 *   [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
@@ -917,7 +915,7 @@
 
 *   [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet) - Create, Evaluate, and Connect AI Skills
 
-*   [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+*   [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 *   [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 
@@ -1963,6 +1961,8 @@
 
 *   [ireaderlab/zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 
+*   [mafintosh/playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
+
 ## Java
 
 *   [redhat-developer/lsp4ij](https://github.com/redhat-developer/lsp4ij) - LSP & DAP Client for IntelliJ
@@ -2075,7 +2075,7 @@
 
 *   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
 
-*   [craftcs/okcache](https://github.com/craftcs/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
+*   [bootcraft-dev/okcache](https://github.com/bootcraft-dev/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
 
 *   [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 
