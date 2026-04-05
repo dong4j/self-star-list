@@ -6,9 +6,10 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [C](#c)
+*   [C](#c-1)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Go](#go)
@@ -25,7 +26,6 @@
 *   [HTML](#html)
 *   [EJS](#ejs)
 *   [Sass](#sass)
-*   [C++](#c-1)
 *   [Astro](#astro)
 *   [PHP](#php)
 *   [Svelte](#svelte)
@@ -52,6 +52,54 @@
 *   [Objective-C++](#objective-c-1)
 *   [Erlang](#erlang)
 *   [Makefile](#makefile)
+
+## C++
+
+*   [WellsWang/vckb](https://github.com/WellsWang/vckb) - 创建一个可以灵活定义的USB键盘
+
+*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+
+*   [MuShibo/Micro-Wheeled\_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+*   [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
+
+*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+
+*   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
+*   [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.
+
+*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+
+*   [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) - YoloV8 for a bare Raspberry Pi 4 or 5
+
+*   [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [chenyk1219/subconverter-surge](https://github.com/chenyk1219/subconverter-surge) - 为surge定制的subconverter，需要配合特定的前端 https://subconverter.inextops.com
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
+
+*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
+
+*   [int32bit/leetcode](https://github.com/int32bit/leetcode) - leetcode解法和思路总结
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+
+*   [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
 ## miscellaneous
 
@@ -191,9 +239,9 @@
 
 *   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
 
-*   [bootcraft-dev/engineer\_competency\_framework](https://github.com/bootcraft-dev/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [hellobyte-dev/engineer\_competency\_framework](https://github.com/hellobyte-dev/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
 
-*   [bootcraft-dev/staffjoy-ppt](https://github.com/bootcraft-dev/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
+*   [hellobyte-dev/staffjoy-ppt](https://github.com/hellobyte-dev/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
 
 *   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 
@@ -1961,8 +2009,6 @@
 
 *   [ireaderlab/zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 
-*   [mafintosh/playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
-
 ## Java
 
 *   [redhat-developer/lsp4ij](https://github.com/redhat-developer/lsp4ij) - LSP & DAP Client for IntelliJ
@@ -2075,7 +2121,7 @@
 
 *   [srikanth-lingala/zip4j](https://github.com/srikanth-lingala/zip4j) - A Java library for zip files and streams
 
-*   [bootcraft-dev/okcache](https://github.com/bootcraft-dev/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
+*   [hellobyte-dev/okcache](https://github.com/hellobyte-dev/okcache) - 一个高性能二级缓存实现, 内存LRU缓存 + 磁盘文件持久化缓存。
 
 *   [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 
@@ -3270,52 +3316,6 @@
 ## Sass
 
 *   [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
-
-## C++
-
-*   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-
-*   [MuShibo/Micro-Wheeled\_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-*   [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
-
-*   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-
-*   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-
-*   [jselbie/stunserver](https://github.com/jselbie/stunserver) - Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.
-
-*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
-
-*   [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) - YoloV8 for a bare Raspberry Pi 4 or 5
-
-*   [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [chenyk1219/subconverter-surge](https://github.com/chenyk1219/subconverter-surge) - 为surge定制的subconverter，需要配合特定的前端 https://subconverter.inextops.com
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
-
-*   [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-
-*   [int32bit/leetcode](https://github.com/int32bit/leetcode) - leetcode解法和思路总结
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-*   [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-
-*   [pqrs-org/Karabiner-archived](https://github.com/pqrs-org/Karabiner-archived) - Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.
 
 ## Astro
 
