@@ -6,10 +6,10 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [HTML](#html)
 *   [Java](#java)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [C#](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -51,6 +51,126 @@
 *   [Vim script](#vim-script-1)
 *   [Objective-C++](#objective-c-1)
 *   [Erlang](#erlang)
+
+## Shell
+
+*   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
+
+*   [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+
+*   [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+*   [ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide) - Complete guide explaining how to build and run a virtualized small Kubernetes cluster with one Proxmox VE standalone node on a single computer.
+
+*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+
+*   [ogromwang/skills](https://github.com/ogromwang/skills) - 个人 Claude Code 技能集合，持续收集和开发各种实用的 Claude Skills。
+
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+
+*   [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
+
+*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+
+*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [KoolCore/Proxmox\_VE\_Status](https://github.com/KoolCore/Proxmox_VE_Status) - 开源 PVE 网页后台添加处理器温度、频率，NVMe和SSD 信息的脚本工具，以及一些自用脚本
+
+*   [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
+
+*   [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+
+*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
+
+*   [wukongdaily/OrangePiShell](https://github.com/wukongdaily/OrangePiShell) - 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用1panel面板轻松管理docker。
+
+*   [hwdsl2/wireguard-install](https://github.com/hwdsl2/wireguard-install) - WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS. Includes interactive setup and client management.
+
+*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+*   [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
+
+*   [barry-ran/raspberry-webcam](https://github.com/barry-ran/raspberry-webcam) - 树莓派网络摄像头监控
+
+*   [wukongdaily/commonscript](https://github.com/wukongdaily/commonscript) - This project is a universal script designed for OpenWrt. It can be used on both Arm and x86 platforms.
+
+*   [eprev/locationchanger](https://github.com/eprev/locationchanger) - Change OS X’s network location based on the name of Wi-Fi network
+
+*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+
+*   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
+
+*   [mghcool/Raspberry-backup](https://github.com/mghcool/Raspberry-backup) - 树莓派备份脚本
+
+*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
+
+*   [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - Wireguard helper scripts
+
+*   [sensec/ddns-scripts\_aliyun](https://github.com/sensec/ddns-scripts_aliyun) - OpenWrt/LEDE DDNS support for aliyun (阿里云)
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
+
+*   [beansoft/visualgc\_jdk8](https://github.com/beansoft/visualgc_jdk8) - The VisualGC 3.0 standalone version with enhancement for HotSpot JDK 8(独立运行版, 支持JDK 8, 增强了部分功能)
+
+*   [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
+
+*   [guchongxi/gen-git-log](https://github.com/guchongxi/gen-git-log) - 自动生成git commit记录用以统计个人项目周报，全组项目周报，版本差异记录等
+
+*   [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
+
+*   [dong4j/blog-resources](https://github.com/dong4j/blog-resources) - vue-blog 源码
+
+*   [dong4j/java-interview](https://github.com/dong4j/java-interview) - 🤓 Java 面试相关
+
+*   [caison/java-knowledge-mind-map](https://github.com/caison/java-knowledge-mind-map) - 【🌱🌱Java服务端知识技能图谱】用思维脑图梳理汇总Java服务端知识技能
+
+*   [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+
+*   [tianhao/alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow) - 搜索、打开MWeb 内部文档和外部 Markdown 文档
+
+*   [docker-library/elasticsearch](https://github.com/docker-library/elasticsearch) - DEPRECATED; https://github.com/docker-library/official-images/pull/15808
+
+*   [qingliuyun/msa-demo](https://github.com/qingliuyun/msa-demo) - 微服务架构demo
+
+*   [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
+
+*   [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+
+*   [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
+
+*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
+
+*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
+
+*   [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
+
+*   [rwu823/afloat](https://github.com/rwu823/afloat) - Always on top solution, quickly install Afloat in macOS
+
+*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+
+*   [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+
+*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+
+*   [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+
+*   [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
+
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 ## HTML
 
@@ -1272,122 +1392,6 @@
 
 *   [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
-## Shell
-
-*   [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
-
-*   [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-
-*   [ehlesp/smallab-k8s-pve-guide](https://github.com/ehlesp/smallab-k8s-pve-guide) - Complete guide explaining how to build and run a virtualized small Kubernetes cluster with one Proxmox VE standalone node on a single computer.
-
-*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
-
-*   [ogromwang/skills](https://github.com/ogromwang/skills) - 个人 Claude Code 技能集合，持续收集和开发各种实用的 Claude Skills。
-
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-
-*   [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
-
-*   [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
-
-*   [yhan219/navicat\_reset\_mac](https://github.com/yhan219/navicat_reset_mac) - navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [KoolCore/Proxmox\_VE\_Status](https://github.com/KoolCore/Proxmox_VE_Status) - 开源 PVE 网页后台添加处理器温度、频率，NVMe和SSD 信息的脚本工具，以及一些自用脚本
-
-*   [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) -
-
-*   [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-
-*   [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
-
-*   [wukongdaily/OrangePiShell](https://github.com/wukongdaily/OrangePiShell) - 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用1panel面板轻松管理docker。
-
-*   [hwdsl2/wireguard-install](https://github.com/hwdsl2/wireguard-install) - WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS. Includes interactive setup and client management.
-
-*   [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-*   [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-
-*   [barry-ran/raspberry-webcam](https://github.com/barry-ran/raspberry-webcam) - 树莓派网络摄像头监控
-
-*   [wukongdaily/commonscript](https://github.com/wukongdaily/commonscript) - This project is a universal script designed for OpenWrt. It can be used on both Arm and x86 platforms.
-
-*   [eprev/locationchanger](https://github.com/eprev/locationchanger) - Change OS X’s network location based on the name of Wi-Fi network
-
-*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-
-*   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
-
-*   [mghcool/Raspberry-backup](https://github.com/mghcool/Raspberry-backup) - 树莓派备份脚本
-
-*   [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) -
-
-*   [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - Wireguard helper scripts
-
-*   [sensec/ddns-scripts\_aliyun](https://github.com/sensec/ddns-scripts_aliyun) - OpenWrt/LEDE DDNS support for aliyun (阿里云)
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial) - 后端 （Java Golang）全栈知识架构体系总结
-
-*   [beansoft/visualgc\_jdk8](https://github.com/beansoft/visualgc_jdk8) - The VisualGC 3.0 standalone version with enhancement for HotSpot JDK 8(独立运行版, 支持JDK 8, 增强了部分功能)
-
-*   [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-
-*   [guchongxi/gen-git-log](https://github.com/guchongxi/gen-git-log) - 自动生成git commit记录用以统计个人项目周报，全组项目周报，版本差异记录等
-
-*   [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
-
-*   [dong4j/blog-resources](https://github.com/dong4j/blog-resources) - vue-blog 源码
-
-*   [dong4j/java-interview](https://github.com/dong4j/java-interview) - 🤓 Java 面试相关
-
-*   [caison/java-knowledge-mind-map](https://github.com/caison/java-knowledge-mind-map) - 【🌱🌱Java服务端知识技能图谱】用思维脑图梳理汇总Java服务端知识技能
-
-*   [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-
-*   [tianhao/alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow) - 搜索、打开MWeb 内部文档和外部 Markdown 文档
-
-*   [docker-library/elasticsearch](https://github.com/docker-library/elasticsearch) - DEPRECATED; https://github.com/docker-library/official-images/pull/15808
-
-*   [qingliuyun/msa-demo](https://github.com/qingliuyun/msa-demo) - 微服务架构demo
-
-*   [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-
-*   [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-
-*   [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-
-*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
-
-*   [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
-
-*   [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
-
-*   [rwu823/afloat](https://github.com/rwu823/afloat) - Always on top solution, quickly install Afloat in macOS
-
-*   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
-
-*   [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-
-*   [taizilongxu/interview\_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
-
-*   [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-
-*   [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
-
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-
 ## C\#
 
 *   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -1418,7 +1422,7 @@
 
 *   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 *   [hyqf98/dataset\_manager](https://github.com/hyqf98/dataset_manager) - 数据集标记平台
 
@@ -2138,8 +2142,6 @@
 
 *   [dubboclub/dubbokeeper](https://github.com/dubboclub/dubbokeeper) - dubbo服务管理以及监控系统
 
-*   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-
 ## Swift
 
 *   [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
@@ -2577,8 +2579,6 @@
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 *   [qibaoguang/Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
-
-*   [jobbole/awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 
 ## TypeScript
 
