@@ -339,8 +339,6 @@
 
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
-*   [qibaoguang/Spring-Boot-Reference-Guide](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) - Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
-
 ## Awk
 
 *   [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
@@ -622,6 +620,8 @@
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 *   [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
+
+*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 *   [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI (Windows & macOS)
 
