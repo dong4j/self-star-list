@@ -53,6 +53,10 @@
 
 ## TypeScript
 
+*   [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
+
+*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 *   [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -1267,10 +1271,6 @@
 
 *   [gongjianhui/AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。\[已停止更新，请慎用。]
 
-*   [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
-
-*   [scottming/pinboard\_search\_cli](https://github.com/scottming/pinboard_search_cli) - Search through your pinboard bookmarks on the command-line.
-
 ## Go
 
 *   [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) -   用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
@@ -1709,7 +1709,7 @@
 
 *   [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini) - This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 
-*   [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) - 🇨🇳 OpenClaw中文用例大全 | 49个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases
+*   [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) - 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 
 *   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 
