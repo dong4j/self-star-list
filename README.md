@@ -25,13 +25,13 @@
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Ruby](#ruby)
-*   [MDX](#mdx)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [EJS](#ejs)
 *   [Sass](#sass)
 *   [PHP](#php)
 *   [Svelte](#svelte)
+*   [MDX](#mdx)
 *   [Elixir](#elixir)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
@@ -52,6 +52,8 @@
 *   [Vim script](#vim-script-1)
 
 ## Python
+
+*   [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 *   [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) -
 
@@ -448,6 +450,8 @@
 *   [facert/tumblr\_spider](https://github.com/facert/tumblr_spider) - 汤不热 python 多线程爬虫
 
 ## TypeScript
+
+*   [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 
 *   [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
@@ -863,6 +867,8 @@
 
 *   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+
 *   [cnych/markdown-weixin](https://github.com/cnych/markdown-weixin) - 一个在线将 Markdown 转换为微信公众帐号文章格式的工具
 
 *   [maomao1996/vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
@@ -1211,7 +1217,7 @@
 
 *   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 
@@ -2152,8 +2158,6 @@
 *   [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 
 *   [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-
-*   [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 
 ## Dart
 
@@ -3305,14 +3309,6 @@
 
 *   [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 
-## MDX
-
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-
-*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-
-*   [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
-
 ## Dockerfile
 
 *   [normal-coder/OpenVPN2SS](https://github.com/normal-coder/OpenVPN2SS) - Convert OpenVPN into Socks5 via Docker 将 OpenVPN 协议转为 Socks 协议，支持同时多开多个 OpenVPN 客户端，解决不同工作环境 OpenVPN 内网同时访问问题
@@ -3401,6 +3397,12 @@
 
 *   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
+## MDX
+
+*   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+
+*   [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
+
 ## Elixir
 
 *   [svycal/og-image](https://github.com/svycal/og-image) - An open graph image generator, by SavvyCal ✨
@@ -3464,8 +3466,6 @@
 ## Perl
 
 *   [oetiker/SmokePing](https://github.com/oetiker/SmokePing) - The Active Monitoring System
-
-*   [yaoweibin/nginx\_upstream\_check\_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx
 
 ## GDScript
 
