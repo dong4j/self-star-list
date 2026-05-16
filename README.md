@@ -53,6 +53,8 @@
 
 ## Rust
 
+*   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
 *   [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 
 *   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -116,6 +118,8 @@
 *   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 
 ## TypeScript
+
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 *   [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
@@ -527,7 +531,7 @@
 
 *   [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 
-*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 运行平台
+*   [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
 
 *   [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 
@@ -638,8 +642,6 @@
 *   [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 
 *   [ruanyf/simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts) - A collection of simple Bash scripts
-
-*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
 ## Astro
 
@@ -1057,7 +1059,7 @@
 
 *   [dong4j/cover-generator](https://github.com/dong4j/cover-generator) - 使用 svg 来生成博客封面图
 
-*   [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 15 AI agent CLIs — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw, Every Code, Hermes, GitHub Copilot, Kimi Code, CodeBuddy, oh-my-pi, Kilo CLI, Kilo Code. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
+*   [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 16 AI agent CLIs — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw, Every Code, Hermes, GitHub Copilot, Kimi Code, CodeBuddy, Grok Build, oh-my-pi, Kilo CLI, Kilo Code. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
 
 *   [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
 
@@ -1312,6 +1314,8 @@
 *   [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 
 *   [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
+
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 *   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 
@@ -2099,8 +2103,6 @@
 
 *   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
-*   [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
-
 ## C
 
 *   [xuanyuanzhifeng/easytshark](https://github.com/xuanyuanzhifeng/easytshark) - 一款开源的简洁好用的网络抓包分析软件
@@ -2653,7 +2655,7 @@
 
 *   [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 
-*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
+*   [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 
 *   [zhangxd1989/spring-boot-cloud](https://github.com/zhangxd1989/spring-boot-cloud) - 基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目
 
@@ -2738,8 +2740,6 @@
 *   [helidon-io/helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 
 *   [binarywang/WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
-
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
 *   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
