@@ -53,6 +53,8 @@
 
 ## TypeScript
 
+*   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+
 *   [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 
 *   [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -1585,7 +1587,7 @@
 
 *   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 
-*   [duxweb/codux](https://github.com/duxweb/codux) - ⬛ Cross-platform AI terminal work desktop software, specially designed for AI programming tools - multi-project management, built-in Git, real-time AI usage tracking. 跨平台AI 终端工作桌面软件，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。
+*   [duxweb/codux](https://github.com/duxweb/codux) - ⬛ Codux AI: The command center for AI coding CLIs. AI 编程 CLI 的跨平台工作台。
 
 *   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 
@@ -1753,7 +1755,7 @@
 
 *   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
 *   [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 
@@ -2205,7 +2207,7 @@
 
 *   [MemoryZy/Json-Assistant](https://github.com/MemoryZy/Json-Assistant) - 基于 IntelliJ IDEs 的 JSON 工具插件，让 JSON 处理变得更轻松！JSON Tools Plugin for IntelliJ IDEs - Simplify Your JSON Processing Effortlessly!
 
-*   [hyqf98/idea-tools](https://github.com/hyqf98/idea-tools) - idea工具插件集合
+*   [hyqf98/IdeaTools](https://github.com/hyqf98/IdeaTools) - idea工具插件集合
 
 *   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 
@@ -3070,8 +3072,6 @@
 *   [dong4j/pattern\_code](https://github.com/dong4j/pattern_code) - 这是一个学习设计模式时所涉及到的代码
 
 *   [a2888409/face2face](https://github.com/a2888409/face2face) - 基于netty的异步非阻塞实时聊天(IM)服务器。
-
-*   [Aresyi/pushServer](https://github.com/Aresyi/pushServer) - PushServer is a simple,light push server that mainly using netty implementation
 
 ## C\#
 
