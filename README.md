@@ -6,15 +6,15 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Python](#python)
-*   [Swift](#swift)
-*   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [Shell](#shell)
+*   [Swift](#swift)
+*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [HTML](#html)
+*   [Rust](#rust)
+*   [JavaScript](#javascript)
+*   [Shell](#shell)
 *   [Astro](#astro)
 *   [C](#c)
 *   [Dart](#dart)
@@ -51,77 +51,13 @@
 *   [AppleScript](#applescript)
 *   [Vim script](#vim-script-1)
 
-## Rust
-
-*   [chaosprint/hindsight](https://github.com/chaosprint/hindsight) - GitHub-style git activity visualizer for your terminal.
-
-*   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-
-*   [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
-
-*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-
-*   [duxweb/codux](https://github.com/duxweb/codux) - ⬛ Codux AI: The command center for AI coding CLIs. AI 编程 CLI 的跨平台工作台。
-
-*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
-
-*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-
-*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-
-*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-
-*   [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-
-*   [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
-
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-
-*   [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-
-*   [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
-
-*   [andrewdavidmackenzie/pigg](https://github.com/andrewdavidmackenzie/pigg) - GUI for remote control of Raspberry Pi GPIO hardware
-
-*   [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
-
-*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
-
-*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-
-*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-
-*   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
-
 ## Python
+
+*   [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+
+*   [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+
+*   [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 
 *   [Besty0728/Gemini-CLI-Auth-Manager](https://github.com/Besty0728/Gemini-CLI-Auth-Manager) - Gemini-CLI account switching tool
 
@@ -521,7 +457,243 @@
 
 *   [cs1707/tldr-alfred](https://github.com/cs1707/tldr-alfred) - tldr alfred workflow
 
+## Go
+
+*   [FutureSolutionDev/internet-monitor](https://github.com/FutureSolutionDev/internet-monitor) - free, open-source tool that runs silently in the background and monitors your internet connection 24/7 using three simultaneous checks
+
+*   [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+
+*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+
+*   [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
+
+*   [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
+
+*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+
+*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+*   [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+
+*   [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
+
+*   [higress-group/higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
+
+*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+
+*   [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
+
+*   [tom-draper/api-analytics](https://github.com/tom-draper/api-analytics) - Effortless monitoring and analytics for API frameworks.
+
+*   [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
+
+*   [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+
+*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+
+*   [soxft/time-counter](https://github.com/soxft/time-counter) - a simple online user/time counter
+
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+
+*   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
+*   [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+
+*   [mdp/qrterminal](https://github.com/mdp/qrterminal) - QR Codes in your terminal
+
+*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+
+*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+
+*   [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
+
+*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+
+*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+
+*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+
+*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+
+*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+
+*   [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
+
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+
+*   [metatube-community/metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go) - MetaTube SDK & API Server in Golang
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+*   [chaitin/blazehttp](https://github.com/chaitin/blazehttp) - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+*   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+
+*   [jaywcjlove/golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) - Go语言快速入门
+
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+*   [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
+
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
+
+*   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+
+*   [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+
+*   [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
+
+*   [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+
+*   [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+
+*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
+
+*   [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+
+*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
+
+*   [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+
+*   [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
+
+*   [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
+
+*   [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
+
+*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+
+*   [clipable/clipable](https://github.com/clipable/clipable) - A simple, self-hosted, alternative to Streamable
+
+*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+
+*   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+
+*   [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+
+*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+
+*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+
+*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+
+*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+
+*   [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
+
+*   [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
+
+*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
+
+*   [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+
+*   [YanxinTang/clipboard-online](https://github.com/YanxinTang/clipboard-online) - Share content between 💻Windows and 📱iOS
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
+
+*   [ogromwang/xhz](https://github.com/ogromwang/xhz) - 🐽 xhz 一个基于 Flutter Go 的在线亲友记账共享 app
+
+*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
+
+*   [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+
+*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+
+*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+
+*   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
+
+*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+
+*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
+
+*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
+
+*   [owlwalks/rind](https://github.com/owlwalks/rind) - DNS server with REST interface for records management built on Golang
+
+*   [apache/dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo.
+
+*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+
+*   [sundy-li/wechat\_autojump\_game](https://github.com/sundy-li/wechat_autojump_game) - 用Golang实现微信跳一跳游戏自动玩
+
+*   [vincentruan/wechat\_autojump\_game](https://github.com/vincentruan/wechat_autojump_game) - 用Golang实现微信跳一跳游戏自动玩
+
+*   [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
+
+*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+
+*   [hyper0x/goc2p](https://github.com/hyper0x/goc2p) - An example project for book 'Go Programming & Concurrency in Practice'.
+
+*   [george518/PPGo\_ApiAdmin](https://github.com/george518/PPGo_ApiAdmin) - go-API-manage
+
+*   [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+
+*   [andeya/faygo](https://github.com/andeya/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
+
+*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+
+*   [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
+
+*   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+
+*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+
+*   [nikivdev/alfred-learn-anything](https://github.com/nikivdev/alfred-learn-anything) - Alfred workflow to search Learn Anything
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+
+*   [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
+
 ## Swift
+
+*   [arinltte/LUCE](https://github.com/arinltte/LUCE) - Keyboard Cleaning for MacOS
 
 *   [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
@@ -625,361 +797,293 @@
 
 *   [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 
-## JavaScript
+## miscellaneous
 
-*   [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
+*   [paywallpro/paywall-gallery](https://github.com/paywallpro/paywall-gallery) - Top iOS app subscription paywall and onboarding gallery with screenshots, videos, pricing models, patterns, and monetization signals.
 
-*   [asong56/Cicada](https://github.com/asong56/Cicada) - A minimalist, high-performance digital whiteboard for the web. Supports infinite canvas and image export.
+*   [spring-ai-community/spring-testing-skills](https://github.com/spring-ai-community/spring-testing-skills) - SkillsJars for testing Spring applications — curated patterns for JPA, REST, Security, WebFlux, WebSocket, and test fundamentals
 
-*   [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+*   [study8677/Readme.skill](https://github.com/study8677/Readme.skill) - Turn your local Claude Code / Codex CLI history into a shareable, anonymized AI-Native developer profile + viral SVG poster. A skill, not a script — 100% local & read-only.
 
-*   [dong4j/cover-generator](https://github.com/dong4j/cover-generator) - 使用 svg 来生成博客封面图
+*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-*   [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
+*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌
 
-*   [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
+*   [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini) - This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 
-*   [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) - 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！
+*   [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) - 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
 
-*   [UlanziTechnology/UlanziDeckPlugin-SDK](https://github.com/UlanziTechnology/UlanziDeckPlugin-SDK) - UlanziDeckPlugin-SDK
+*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 
-*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+*   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-*   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+*   [clawdbot-ai/awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) - OpenClaw 中文官方技能库 | 翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用
 
-*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+*   [flyeric0212/cursor-rules](https://github.com/flyeric0212/cursor-rules) - 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。
 
-*   [cnych/markdown-weixin](https://github.com/cnych/markdown-weixin) - 一个在线将 Markdown 转换为微信公众帐号文章格式的工具
+*   [xiaomabenten/system\_architect](https://github.com/xiaomabenten/system_architect) - 💯2026年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。
 
-*   [maomao1996/vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
+*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+*   [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
 
-*   [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-*   [darkterminal/og-image-rest-generator](https://github.com/darkterminal/og-image-rest-generator) - OG:IMAGE REST Generator is a free and powerful tool that simplifies the process of generating Open Graph images for your website or application.
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
-*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+*   [enify/lcd4linux-doc](https://github.com/enify/lcd4linux-doc) - LCD4Linux 中文文档(部分翻译)。
 
-*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+*   [miantiao-me/Git.Bio](https://github.com/miantiao-me/Git.Bio) - Turn your GitHub into a Biography
 
-*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+*   [cssmagic/Awesome-AI](https://github.com/cssmagic/Awesome-AI) - 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。
 
-*   [pixpark/picprose](https://github.com/pixpark/picprose) - Better cover image generator tool for Medium, Blog, Youtube, BiliBili and many others
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
-*   [miantiao-me/github-og-image](https://github.com/miantiao-me/github-og-image) - 提取 Github OpenGraph 图片用于卡片预览
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 
-*   [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
+*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 
-*   [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
+*   [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 
-*   [dotenvx/llmstxt](https://github.com/dotenvx/llmstxt) - convert `sitemap.xml` to `llms.txt`
+*   [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 
-*   [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free) - \[AI Auto Free]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai, Windsurf Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 
-*   [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.
+*   [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
 
-*   [huglemon/inwind-landing-page](https://github.com/huglemon/inwind-landing-page) - a free, open-source, powerful landing page template.
+*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 
-*   [plantree/ruanyf-weekly](https://github.com/plantree/ruanyf-weekly) - VitePress构建阮一峰的技术周刊
+*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
 
-*   [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
-*   [codedthemes/berry-free-react-admin-template](https://github.com/codedthemes/berry-free-react-admin-template) - Berry free react material-ui admin template for easing and faster web development.
+*   [anzhiyu-c/anzhiyu-c](https://github.com/anzhiyu-c/anzhiyu-c) - This is My Personal profile
 
-*   [HermitGeek/node-cli-template](https://github.com/HermitGeek/node-cli-template) - Node 终端工具脚手架（Rollup + TS + Lint）
+*   [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
 
-*   [IonicaBizau/github-stats](https://github.com/IonicaBizau/github-stats) - :chart\_with\_upwards\_trend: Visualize stats about GitHub users and projects in your terminal.
+*   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
 
-*   [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
+*   [gantFDT/icraft](https://github.com/gantFDT/icraft) - iCraft Editor - Help you easily create excellent 3D architecture diagrams
 
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+*   [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition
 
-*   [anmol098/anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
+*   [chaitin/xpoc](https://github.com/chaitin/xpoc) - 为供应链漏洞扫描设计的快速应急响应工具  \[快速应急] \[漏洞扫描] \[端口扫描] \[xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
 
-*   [anmol098/npx\_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 
-*   [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
+*   [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) - 无人机资源汇总
 
-*   [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
+*   [gfriends/gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
 
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [YEreed/AV\_Data\_Capture](https://github.com/YEreed/AV_Data_Capture) - 本地电影刮削与整理一体化解决方案
 
-*   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
+*   [sergibarroso/wireguard-vpn-setup](https://github.com/sergibarroso/wireguard-vpn-setup) - This is a how-to guide to set up WireGuard VPN as a gateway
 
-*   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+*   [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata) - 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
 
-*   [jz0ojiang/hexo-info-api](https://github.com/jz0ojiang/hexo-info-api) - Generate Restful Api for Hexo
+*   [BiliUniverse/Universe](https://github.com/BiliUniverse/Universe) - 哔哩哔哩流媒体平台功能增强系列模块
 
-*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 
-*   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
+*   [cc63/ICON](https://github.com/cc63/ICON) - 适用于Sub-Store的图标库
 
-*   [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器
+*   [BitRemoteApp/BitRemote](https://github.com/BitRemoteApp/BitRemote) - A downloaders remote app for Apple platforms built with SwiftUI & TCA.
 
-*   [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+*   [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
 
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+*   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
+*   [aJIEw/GithubStars](https://github.com/aJIEw/GithubStars) - 整理了自己 Star 的项目，方便浏览、查找和回顾。
 
-*   [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
-*   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 
-*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+*   [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
 
-*   [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
+*   [ningyu1/e-books](https://github.com/ningyu1/e-books) - IT technical related e-books and PPT information, continuous updating. For those in need, Keep real, peace and love.
 
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 
-*   [LikeNeko/L2dPetForMac](https://github.com/LikeNeko/L2dPetForMac) - 基于electronjs的live2d桌宠项目，想在mac上养一只live2d宠物的话可以fork下来学习一下。这个项目是比较适合学习live2d的sdk与electron的一个项目。
+*   [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。
 
-*   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+*   [Eternaldeath/AIProductHome](https://github.com/Eternaldeath/AIProductHome) - Collect various AI products | 搜集各种 AI 工具和产品
 
-*   [wlm3201/Masonry\_Image\_Viewer](https://github.com/wlm3201/Masonry_Image_Viewer) - Masonry/Waterfall Image Viewer
+*   [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
-*   [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
+*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
 
-*   [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
+*   [Bssn520/VideosShareByAliyun](https://github.com/Bssn520/VideosShareByAliyun) - 🤪动漫、电视剧、电影、纪录片分享by阿里云盘🫡
 
-*   [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+*   [dearxuany/Sharon\_Technology\_learning\_note](https://github.com/dearxuany/Sharon_Technology_learning_note) - Technology Learning Note Collection
 
-*   [wandergis/coordtransform](https://github.com/wandergis/coordtransform) - 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
-*   [githubdulong/Script](https://github.com/githubdulong/Script) - QuantumultX｜Surge｜Loon
+*   [jgraph/drawio-libs](https://github.com/jgraph/drawio-libs) - Libraries for draw.io
 
-*   [VirgilClyne/GetSomeFries](https://github.com/VirgilClyne/GetSomeFries) - 个人独立作品或公共组件库
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
-*   [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
+*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+*   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
 
-*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
-*   [mieqq/mieqq](https://github.com/mieqq/mieqq) -
+*   [rfyiamcool/share\_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+*   [zq99299/note-architect](https://github.com/zq99299/note-architect) - 架构师学习笔记仓库
 
-*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
-*   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
+*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 
-*   [Yuheng0101/X](https://github.com/Yuheng0101/X) - Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.
+*   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
 
-*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
+*   [spring2go/engineer\_competency\_framework](https://github.com/spring2go/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
 
-*   [DualSubs/Universal](https://github.com/DualSubs/Universal) - 通用流媒体平台增强及双语字幕解决方案
+*   [spring2go/staffjoy-ppt](https://github.com/spring2go/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
 
-*   [cc63/Surge](https://github.com/cc63/Surge) - Surge的配置与模块
+*   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
 
-*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
+*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
-*   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
-*   [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) -
+*   [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
 
-*   [BlueGrave/Surge](https://github.com/BlueGrave/Surge) - 自用的 Surge 规则和脚本
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 
-*   [Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
+*   [flomoapp/3rd-party-tools](https://github.com/flomoapp/3rd-party-tools) -
 
-*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
+*   [CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
 
-*   [Auraflare/1.1.1.1](https://github.com/Auraflare/1.1.1.1) - Cloudflare相关插件/模块
+*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 
-*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+*   [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev) - 后端开发常用框架文档及中文翻译，包含 Spring 系列文档（Spring, Spring Boot, Spring Cloud, Spring Security, Spring Session），大数据（Apache Hive, HBase, Apache Flume），日志（Log4j2, Logback），Http Server（NGINX，Apache），Python，数据库（OpenTSDB，MySQL，PostgreSQL）等最新官方文档以及对应的中文翻译。
 
-*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 
-*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
+*   [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking) - \[已过期,请使用官网AI文档] The CN translation version of Apache SkyWalking document
 
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+*   [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) - Opensabre是基于SpringCloud2023的微服务开发平台，整合了Spring Security、Springcloud Alibaba等组件。  包含了基础的RBAC权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。  定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持Docker、Kubenetes的部署。  让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。  目标是建立一套金融级、高安全性的微服务解决方案。
 
-*   [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.
+*   [sentinel-group/sentinel-awesome](https://github.com/sentinel-group/sentinel-awesome) - A curated list of awesome things (resource, sample, extensions) for Sentinel
 
-*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+*   [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 
-*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
 
-*   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
+*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
 
-*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
+*   [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - concurrency
 
-*   [lucaceriani/ooo](https://github.com/lucaceriani/ooo) -
+*   [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！
 
-*   [gadore/ink-screen-bluetooth](https://github.com/gadore/ink-screen-bluetooth) - An script that can control a inkScreen with bluetooth protocol
+*   [vuepress-reco/vuepress-theme-reco-demo](https://github.com/vuepress-reco/vuepress-theme-reco-demo) - 🎉 This is the templates for vuepress-theme-reco.
 
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+*   [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
 
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用nestjs+vue3.x+ts+vite开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能，插件分为上传插件、主题插件、工具箱插件，目前内置数十种插件，支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、七牛云 KODO等常用对象存储插件以及vscode暗黑主题、Monokai主题等。
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 
-*   [xlvecle/Bark-Chrome-Extension](https://github.com/xlvecle/Bark-Chrome-Extension) - Chrome Extension for Bark. Bark is an iOS App which allows you to push customed notifications to your iPhone
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
-*   [moeyua/utools-bark](https://github.com/moeyua/utools-bark) - 通过 bark 将消息作为通知发送到 ios
+*   [dong4j/idea-plugin-dev](https://github.com/dong4j/idea-plugin-dev) - idea plugin dev
 
-*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
+*   [dong4j/macOS-dev](https://github.com/dong4j/macOS-dev) - Elegant development on macOS
 
-*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [TenviLi/markdown-image-localizer](https://github.com/TenviLi/markdown-image-localizer) - 🖼Fastly list or localize the images in markdowns.
+*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 
-*   [icerockdev/libs.kmp.icerock.dev](https://github.com/icerockdev/libs.kmp.icerock.dev) - Kotlin Multiplatform libraries list with info auto-fetch
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
-*   [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+*   [brightmart/nlp\_chinese\_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 
-*   [ZuoFuhong/wechat-mall-miniapp](https://github.com/ZuoFuhong/wechat-mall-miniapp) - 微信小程序商城，涵盖小程序端、CMS端、服务端，几乎是一套可以直接投放市场带SKU的商业级电商系统。
+*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-*   [iRayanKhan/homebridge-tuya](https://github.com/iRayanKhan/homebridge-tuya) - A Homebridge plugin to control Tuya devices locally.
+*   [Alibaba-Technology/hangzhouYunQi2017ppt](https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt) -
 
-*   [toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words) - 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
+*   [clsaa/Distributed-Transaction-Notes](https://github.com/clsaa/Distributed-Transaction-Notes) - 分布式事务解决方案;最终一致性(本地事务型);最终一致性(可靠消息型);最大努力补偿;TCC型
 
-*   [YinHangCode/homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara) - a homebridge plugin for XiaoMi Aqara plugin.
+*   [cloudframeworks-springcloud/user-guide-springcloud](https://github.com/cloudframeworks-springcloud/user-guide-springcloud) - \[Cloudframeworks]Microservices Architecture with Spring Cloud - user guide ／ \[云框架]基于Spring Cloud的微服务架构-用户指南
 
-*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+*   [cloudframeworks-apigateway/user-guide-apigateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway) - \[Cloudframeworks]KONG API Gateway - user guide ／ \[云框架]KONG API Gateway-用户指南 ／ For API Gateway & Microservice APIs Management ／ API网关 & 微服务API管理
 
-*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+*   [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) - Spring Boot Resources
 
-*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
+*   [feflow/readme-style-guide](https://github.com/feflow/readme-style-guide) - now直播项目README规范
 
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
+*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 
-*   [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
+*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 
-*   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
+*   [CloudGateRules/Potatso2](https://github.com/CloudGateRules/Potatso2) -
 
-*   [enilu/web-flash](https://github.com/enilu/web-flash) - web-flash --  Admin Framework and Mobile Website Based on Spring Boot and Vue.js
+*   [niezhiyang/open\_source\_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 
-*   [enilu/material-admin](https://github.com/enilu/material-admin) - A Material Designed Admin Framework based on Spring boot2 And Bootstrap
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 
-*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+*   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 
-*   [zce/weapp-todos](https://github.com/zce/weapp-todos) - 一个简单的任务清单小程序, awesome weapp demo, todos, todolist
+*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 
-*   [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Beautify your Jenkins with the Material Design theme!
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
-*   [xfslove/alfred-mvns](https://github.com/xfslove/alfred-mvns) - Alfred 3 workflow - search for java libraries at maven central repository
+*   [jaywcjlove/swift-tutorial](https://github.com/jaywcjlove/swift-tutorial) - Swift入门教程、读书笔记
 
-*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
 
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
-*   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) -
+*   [dong4j/Translation](https://github.com/dong4j/Translation) - this is a Intellij IDEA translation plugin demo
 
-*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+*   [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
 
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+*   [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
 
-*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+*   [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E) - Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
 
-*   [vuepress-reco/theme-cli](https://github.com/vuepress-reco/theme-cli) - 🛠️ This is the site generation tool for vuepress-theme-reco.
+*   [aterai/java-swing-tips](https://github.com/aterai/java-swing-tips) - Java Swing example.
 
-*   [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
+*   [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
 
-*   [silence0201/Surge.Conf](https://github.com/silence0201/Surge.Conf) - 整理的Surge配置文件
+*   [ifyour/Hosts-for-Surge](https://github.com/ifyour/Hosts-for-Surge) - 🌟 Hosts for Internet Freedom
 
-*   [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
+*   [dong4j/ideas](https://github.com/dong4j/ideas) -
 
-*   [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
+*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 
-*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
+*   [dong4j/ren-ren-dou-shi-jia-gou-shi](https://github.com/dong4j/ren-ren-dou-shi-jia-gou-shi) -
 
-*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+*   [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 
-*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 
-*   [itsron143/ParticleGround-Portfolio](https://github.com/itsron143/ParticleGround-Portfolio) - A minimalistic particle theme landing page template.  ⚛️
+*   [jiang111/awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins) - 收集Android studio 常用的插件
 
-*   [zhuowenli/githuber](https://github.com/zhuowenli/githuber) - :octocat:  Display Github Trending repositories on Chrome New Tab Extensions
-
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-
-*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-
-*   [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
-
-*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
-
-*   [superman66/vue-axios-github](https://github.com/superman66/vue-axios-github) - Vue 全家桶 + axios 前端实现登录拦截、登出、拦截器等功能
-
-*   [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-
-*   [DXY-F2E/api-mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker.
-
-*   [yu120/mconf](https://github.com/yu120/mconf) - 微服务配置中心 mconf ,基于 Zookeeper和Redis实现的配置中心。提供拉取配置、订阅配置、新增配置、删除配置、修改配置等功能。支持多数据中心、多环境配置、配置分组、多版本配置等功能。
-
-*   [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
-
-*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
-*   [sorra/bms](https://github.com/sorra/bms) - Show you how Kotlin & Spring Boot works together
-
-*   [EthanLin-TWer/translation-spring-mvc-4-documentation](https://github.com/EthanLin-TWer/translation-spring-mvc-4-documentation) - Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿
-
-*   [sosoapi/sosoapi-web](https://github.com/sosoapi/sosoapi-web) -
-
-*   [dyc87112/online-markdown](https://github.com/dyc87112/online-markdown) - 在线Markdown转微信公众号内容工具
-
-*   [ityouknow/spring-examples](https://github.com/ityouknow/spring-examples) - Spring Examples
-
-*   [preactjs/preact-www](https://github.com/preactjs/preact-www) - 📖 Preact documentation website.
-
-*   [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-
-*   [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
-
-*   [AsuraTeam/monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
-
-*   [zhongxig/dubbo-d-monitor](https://github.com/zhongxig/dubbo-d-monitor) - dubbo monitor 基于dubbo2.5.3开发的监控平台，兼容了dubbo-admin的特性,有redis、mysql两个版本
-
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-
-*   [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-
-*   [iBase4J/iBase4J](https://github.com/iBase4J/iBase4J) - Spring，SpringBoot 2.0，SpringMVC，Mybatis，mybatis-plus，motan/dubbo分布式，Redis缓存，Shiro权限管理，Spring-Session单点登录，Quartz分布式集群调度，Restful服务，QQ/微信登录，App token登录，微信/支付宝支付；日期转换、数据类型转换、序列化、汉字转拼音、身份证号码验证、数字转人民币、发送短信、发送邮件、加密解密、图片处理、excel导入导出、FTP/SFTP/fastDFS上传下载、二维码、XML读写、高精度计算、系统配置工具类等等。
-
-*   [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
-
-*   [jaywcjlove/FED](https://github.com/jaywcjlove/FED) - ✪ 这是一个很酷炫的前端网站搜集器，导航网  http://jaywcjlove.github.io/FED
-
-*   [jaywcjlove/my-repos](https://github.com/jaywcjlove/my-repos) - This is my list of repositories.
-
-*   [jaywcjlove/nxylene](https://github.com/jaywcjlove/nxylene) - 练习nodejs大法，使用nodejs+mongodb+express4.x做个小实例。
-
-*   [c4pt0r/mdwiki](https://github.com/c4pt0r/mdwiki) - a wiki using markdown
-
-*   [odenny/hydra](https://github.com/odenny/hydra) - 分布式跟踪系统
-
-*   [moocss/EasyCMS](https://github.com/moocss/EasyCMS) - 使用SpringMVC+MyBatis+FreeMarker 创建简单的CMS内容发布系统
-
-*   [basecss/city](https://github.com/basecss/city) - 国家行政区划分数据
-
-*   [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-
-*   [zhangjikai/FileManager](https://github.com/zhangjikai/FileManager) - 在线文件共享
-
-*   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
-
-*   [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
-
-*   [mrwill84/DOClever](https://github.com/mrwill84/DOClever) - 做最好的接口管理平台
-
-*   [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
-
-*   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
-
-*   [sunnykaka/awesome-play](https://github.com/sunnykaka/awesome-play) -
+*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 
 ## TypeScript
+
+*   [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals 💡Vue版本https://github.com/guokaigdg/animal-island-vue
+
+*   [context-dot-dev/designmd-supply](https://github.com/context-dot-dev/designmd-supply) - A supply of the world's designmds
+
+*   [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+
+*   [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
+*   [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 
 *   [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
@@ -1401,517 +1505,503 @@
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
-## miscellaneous
+## HTML
 
-*   [spring-ai-community/spring-testing-skills](https://github.com/spring-ai-community/spring-testing-skills) - SkillsJars for testing Spring applications — curated patterns for JPA, REST, Security, WebFlux, WebSocket, and test fundamentals
+*   [dong4j/gemini-cli-account-manager](https://github.com/dong4j/gemini-cli-account-manager) - A lightweight, high-performance Go implementation for managing Google Gemini CLI accounts. It supports ultra-fast account switching, automated quota rotation, and unified account pool management.
 
-*   [study8677/Readme.skill](https://github.com/study8677/Readme.skill) - Turn your local Claude Code / Codex CLI history into a shareable, anonymized AI-Native developer profile + viral SVG poster. A skill, not a script — 100% local & read-only.
+*   [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+*   [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证和文档生成流程沉淀成可复用的 AI 资产。
 
-*   [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。Ad🔗🈲🙅❌
+*   [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) - Harness Engineering From Claude Code source code to AI Coding
 
-*   [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini) - This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
+*   [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 
-*   [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) - 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好
+*   [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
 
-*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
+*   [onenov/Dify2OpenAI](https://github.com/onenov/Dify2OpenAI) - 一个将 Dify 应用程序转换为 OpenAI API 接口的网关服务，使您可以使用 OpenAI API 兼容的方式访问 Dify 的 LLM、知识库、工具和工作流程。
 
-*   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
 
-*   [clawdbot-ai/awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) - OpenClaw 中文官方技能库 | 翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用
+*   [sqlsec/PVE](https://github.com/sqlsec/PVE) - 国光的 PVE 生产力环境搭建教程
 
-*   [flyeric0212/cursor-rules](https://github.com/flyeric0212/cursor-rules) - 整理和收集来自不同项目的Cursor规则文件，提供多种编程语言和框架的规则支持。
+*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
-*   [xiaomabenten/system\_architect](https://github.com/xiaomabenten/system_architect) - 💯2026年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
-*   [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+*   [nezhahq/nezhahq.github.io](https://github.com/nezhahq/nezhahq.github.io) - Nezha Monitoring Docs
 
-*   [lizhe2004/Awesome-LLM-RAG-Application](https://github.com/lizhe2004/Awesome-LLM-RAG-Application) - the resources about the application based on LLM with RAG pattern
+*   [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [anzhiyu-c/OverseasProhibition](https://github.com/anzhiyu-c/OverseasProhibition) - 海外禁止访问的单页面
 
-*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+*   [zhheo/halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 简约的导航主题
 
-*   [enify/lcd4linux-doc](https://github.com/enify/lcd4linux-doc) - LCD4Linux 中文文档(部分翻译)。
+*   [monkeymademe/CamUI](https://github.com/monkeymademe/CamUI) - CamUI is a WebUI for the Picamera2 Library for the Raspberry Pi
 
-*   [miantiao-me/Git.Bio](https://github.com/miantiao-me/Git.Bio) - Turn your GitHub into a Biography
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
-*   [cssmagic/Awesome-AI](https://github.com/cssmagic/Awesome-AI) - 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。
+*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
 
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [jansorg/marketplace-stats](https://github.com/jansorg/marketplace-stats) - A CLI tool to create reports for paid plugins on the JetBrains marketplace.
 
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [kana112233/intellij-sdk-docs-cn](https://github.com/kana112233/intellij-sdk-docs-cn) - 翻译文档
 
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
 
-*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 
-*   [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+*   [dong4j/dong4j.github.io](https://github.com/dong4j/dong4j.github.io) - blog
 
-*   [yolain/ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
+*   [dong4j/mik-help](https://github.com/dong4j/mik-help) - markdown-image-kit 相关 rest api
 
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-*   [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
+*   [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
 
-*   [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+*   [mrniko/netty-socketio-demo](https://github.com/mrniko/netty-socketio-demo) - netty-socketio demo
 
-*   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
+*   [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
 
-*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+*   [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
 
-*   [anzhiyu-c/anzhiyu-c](https://github.com/anzhiyu-c/anzhiyu-c) - This is My Personal profile
+*   [Jason-Chen-2017/restfeel](https://github.com/Jason-Chen-2017/restfeel) - RESTFeel: 一个企业级的API管理&测试平台。RESTFeel帮助你设计、开发、测试您的API。
 
-*   [blanboom/awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn) - 家庭网络知识整理
+*   [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
 
-*   [ai-vip/stable-diffusion-tutorial](https://github.com/ai-vip/stable-diffusion-tutorial) - 全网最全Stable Diffusion全套教程，从入门到进阶，耗时三个月制作
+*   [roncoo/roncoo-adminLTE](https://github.com/roncoo/roncoo-adminLTE) - RonCoo AdminLTE --是一个完全响应式的免费开源后台管理模板。基于 AdminLTE 框架（后续会随着版本更新而更新）;使用jQuery 2.2.3版本，并引入很多优秀的第三方jQuery插件，开发者也可以改用自己熟悉的第三方插件,易于使用，并高度可定制，适合许多屏幕分辨率从小型移动设备到大型台式机，这是国内的开源模板未支持的。
 
-*   [gantFDT/icraft](https://github.com/gantFDT/icraft) - iCraft Editor - Help you easily create excellent 3D architecture diagrams
+*   [handuyishe/dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
 
-*   [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition
+*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
-*   [chaitin/xpoc](https://github.com/chaitin/xpoc) - 为供应链漏洞扫描设计的快速应急响应工具  \[快速应急] \[漏洞扫描] \[端口扫描] \[xray2.0进行时]   A fast emergency response tool designed for supply chain vulnerability scanning.
+*   [qitaos/rf-demos](https://github.com/qitaos/rf-demos) - 需要自己使用例子的，请下载demo-website的完整目录内容。
 
-*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 
-*   [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) - 无人机资源汇总
+*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
-*   [gfriends/gfriends](https://github.com/gfriends/gfriends) - 媒体服务器演员头像仓库
+## Rust
 
-*   [YEreed/AV\_Data\_Capture](https://github.com/YEreed/AV_Data_Capture) - 本地电影刮削与整理一体化解决方案
+*   [chaosprint/hindsight](https://github.com/chaosprint/hindsight) - GitHub-style git activity visualizer for your terminal.
 
-*   [sergibarroso/wireguard-vpn-setup](https://github.com/sergibarroso/wireguard-vpn-setup) - This is a how-to guide to set up WireGuard VPN as a gateway
+*   [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
-*   [vikadata/awesome-vikadata](https://github.com/vikadata/awesome-vikadata) - 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪  https://vika.cn/developers
+*   [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 
-*   [BiliUniverse/Universe](https://github.com/BiliUniverse/Universe) - 哔哩哔哩流媒体平台功能增强系列模块
+*   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+*   [duxweb/codux](https://github.com/duxweb/codux) - ⬛ Codux AI: The command center for AI coding CLIs. AI 编程 CLI 的跨平台工作台。
 
-*   [cc63/ICON](https://github.com/cc63/ICON) - 适用于Sub-Store的图标库
+*   [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 
-*   [BitRemoteApp/BitRemote](https://github.com/BitRemoteApp/BitRemote) - A downloaders remote app for Apple platforms built with SwiftUI & TCA.
+*   [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 
-*   [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
+*   [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
-*   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
-*   [aJIEw/GithubStars](https://github.com/aJIEw/GithubStars) - 整理了自己 Star 的项目，方便浏览、查找和回顾。
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
-*   [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+*   [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 
-*   [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+*   [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
-*   [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL,  Text2DSL、Text2API、Text2Vis and more.
+*   [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 
-*   [ningyu1/e-books](https://github.com/ningyu1/e-books) - IT technical related e-books and PPT information, continuous updating. For those in need, Keep real, peace and love.
+*   [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 
-*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
-*   [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
-*   [Eternaldeath/AIProductHome](https://github.com/Eternaldeath/AIProductHome) - Collect various AI products | 搜集各种 AI 工具和产品
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
-*   [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 
-*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
+*   [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 
-*   [Bssn520/VideosShareByAliyun](https://github.com/Bssn520/VideosShareByAliyun) - 🤪动漫、电视剧、电影、纪录片分享by阿里云盘🫡
+*   [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun) - A list of publicly available STUN servers, refreshed every hour.
 
-*   [dearxuany/Sharon\_Technology\_learning\_note](https://github.com/dearxuany/Sharon_Technology_learning_note) - Technology Learning Note Collection
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+*   [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
-*   [jgraph/drawio-libs](https://github.com/jgraph/drawio-libs) - Libraries for draw.io
+*   [scottlamb/moonfire-nvr](https://github.com/scottlamb/moonfire-nvr) - Moonfire NVR, a security camera network video recorder
 
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [andrewdavidmackenzie/pigg](https://github.com/andrewdavidmackenzie/pigg) - GUI for remote control of Raspberry Pi GPIO hardware
 
-*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+*   [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 
-*   [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
+*   [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
 
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 
-*   [rfyiamcool/share\_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
-*   [zq99299/note-architect](https://github.com/zq99299/note-architect) - 架构师学习笔记仓库
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+*   [sekunho/emojied](https://github.com/sekunho/emojied) - A URL shortener that uses emojis, only emojis.
 
-*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
+*   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 
-*   [Jstarfish/JavaKeeper](https://github.com/Jstarfish/JavaKeeper) - ✍️  Java 工程师必备架构体系知识总结：涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能
+*   [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 
-*   [spring2go/engineer\_competency\_framework](https://github.com/spring2go/engineer_competency_framework) - 软件工程师职级胜任力框架(engineer level & competency framework)
+*   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 
-*   [spring2go/staffjoy-ppt](https://github.com/spring2go/staffjoy-ppt) - Spring Boot 与 Kubernetes 微服务实践课程的ppt
+## JavaScript
 
-*   [yehongzhi/learningSummary](https://github.com/yehongzhi/learningSummary) - 涵盖大部分Java进阶需要掌握的知识，包括【微服务】【中间件】【缓存】【数据库优化】【搜索引擎】【分布式】等等，欢迎Star~
+*   [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
 
-*   [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
+*   [asong56/Cicada](https://github.com/asong56/Cicada) - A minimalist, high-performance digital whiteboard for the web. Supports infinite canvas and image export.
 
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+*   [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
-*   [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
+*   [dong4j/cover-generator](https://github.com/dong4j/cover-generator) - 使用 svg 来生成博客封面图
 
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+*   [mm7894215/TokenTracker](https://github.com/mm7894215/TokenTracker) - Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.
 
-*   [flomoapp/3rd-party-tools](https://github.com/flomoapp/3rd-party-tools) -
+*   [LarsenCundric/port-whisperer](https://github.com/LarsenCundric/port-whisperer) - A beautiful CLI tool to see what's running on your ports
 
-*   [CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
+*   [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) - 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！
 
-*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+*   [UlanziTechnology/UlanziDeckPlugin-SDK](https://github.com/UlanziTechnology/UlanziDeckPlugin-SDK) - UlanziDeckPlugin-SDK
 
-*   [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev) - 后端开发常用框架文档及中文翻译，包含 Spring 系列文档（Spring, Spring Boot, Spring Cloud, Spring Security, Spring Session），大数据（Apache Hive, HBase, Apache Flume），日志（Log4j2, Logback），Http Server（NGINX，Apache），Python，数据库（OpenTSDB，MySQL，PostgreSQL）等最新官方文档以及对应的中文翻译。
+*   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
-*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+*   [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
-*   [SkyAPM/document-cn-translation-of-skywalking](https://github.com/SkyAPM/document-cn-translation-of-skywalking) - \[已过期,请使用官网AI文档] The CN translation version of Apache SkyWalking document
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
-*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+*   [cnych/markdown-weixin](https://github.com/cnych/markdown-weixin) - 一个在线将 Markdown 转换为微信公众帐号文章格式的工具
 
-*   [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) - Opensabre是基于SpringCloud2023的微服务开发平台，整合了Spring Security、Springcloud Alibaba等组件。  包含了基础的RBAC权限管理、授权认证、网关管理、服务治理、审计日志等系统管理基础应用。  定义了相关开发规范、风格并落地在服务框架层，开箱即用，支持Docker、Kubenetes的部署。  让项目开发人员快速进入业务开发，而不需过多时间花费在基础架构搭建和编码风格规范上。  目标是建立一套金融级、高安全性的微服务解决方案。
+*   [maomao1996/vitepress-nav-template](https://github.com/maomao1996/vitepress-nav-template) - 基于 VitePress 的个人前端导航页面模板
 
-*   [sentinel-group/sentinel-awesome](https://github.com/sentinel-group/sentinel-awesome) - A curated list of awesome things (resource, sample, extensions) for Sentinel
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
-*   [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
+*   [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+*   [darkterminal/og-image-rest-generator](https://github.com/darkterminal/og-image-rest-generator) - OG:IMAGE REST Generator is a free and powerful tool that simplifies the process of generating Open Graph images for your website or application.
 
-*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
+*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 
-*   [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - concurrency
+*   [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
-*   [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！
+*   [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
-*   [vuepress-reco/vuepress-theme-reco-demo](https://github.com/vuepress-reco/vuepress-theme-reco-demo) - 🎉 This is the templates for vuepress-theme-reco.
+*   [pixpark/picprose](https://github.com/pixpark/picprose) - Better cover image generator tool for Medium, Blog, Youtube, BiliBili and many others
 
-*   [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
+*   [miantiao-me/github-og-image](https://github.com/miantiao-me/github-og-image) - 提取 Github OpenGraph 图片用于卡片预览
 
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+*   [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+*   [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
 
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+*   [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 
-*   [dong4j/idea-plugin-dev](https://github.com/dong4j/idea-plugin-dev) - idea plugin dev
+*   [dotenvx/llmstxt](https://github.com/dotenvx/llmstxt) - convert `sitemap.xml` to `llms.txt`
 
-*   [dong4j/macOS-dev](https://github.com/dong4j/macOS-dev) - Elegant development on macOS
+*   [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free) - \[AI Auto Free]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai, Windsurf Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro.
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards) - 在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.
 
-*   [spencerwooo/dowww](https://github.com/spencerwooo/dowww) - 📟 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+*   [huglemon/inwind-landing-page](https://github.com/huglemon/inwind-landing-page) - a free, open-source, powerful landing page template.
 
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+*   [plantree/ruanyf-weekly](https://github.com/plantree/ruanyf-weekly) - VitePress构建阮一峰的技术周刊
 
-*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+*   [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 
-*   [brightmart/nlp\_chinese\_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
+*   [codedthemes/berry-free-react-admin-template](https://github.com/codedthemes/berry-free-react-admin-template) - Berry free react material-ui admin template for easing and faster web development.
 
-*   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+*   [HermitGeek/node-cli-template](https://github.com/HermitGeek/node-cli-template) - Node 终端工具脚手架（Rollup + TS + Lint）
 
-*   [Alibaba-Technology/hangzhouYunQi2017ppt](https://github.com/Alibaba-Technology/hangzhouYunQi2017ppt) -
+*   [IonicaBizau/github-stats](https://github.com/IonicaBizau/github-stats) - :chart\_with\_upwards\_trend: Visualize stats about GitHub users and projects in your terminal.
 
-*   [clsaa/Distributed-Transaction-Notes](https://github.com/clsaa/Distributed-Transaction-Notes) - 分布式事务解决方案;最终一致性(本地事务型);最终一致性(可靠消息型);最大努力补偿;TCC型
+*   [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 
-*   [cloudframeworks-springcloud/user-guide-springcloud](https://github.com/cloudframeworks-springcloud/user-guide-springcloud) - \[Cloudframeworks]Microservices Architecture with Spring Cloud - user guide ／ \[云框架]基于Spring Cloud的微服务架构-用户指南
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
-*   [cloudframeworks-apigateway/user-guide-apigateway](https://github.com/cloudframeworks-apigateway/user-guide-apigateway) - \[Cloudframeworks]KONG API Gateway - user guide ／ \[云框架]KONG API Gateway-用户指南 ／ For API Gateway & Microservice APIs Management ／ API网关 & 微服务API管理
+*   [anmol098/anmolsingh.me](https://github.com/anmol098/anmolsingh.me) - This is my personal website here I keep updating changes which cannot be summed up in my Resume
 
-*   [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) - Spring Boot Resources
+*   [anmol098/npx\_card](https://github.com/anmol098/npx_card) - use npx anmol to connect with me
 
-*   [feflow/readme-style-guide](https://github.com/feflow/readme-style-guide) - now直播项目README规范
+*   [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 
-*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
+*   [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 
-*   [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
-*   [CloudGateRules/Potatso2](https://github.com/CloudGateRules/Potatso2) -
+*   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
 
-*   [niezhiyang/open\_source\_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
+*   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+*   [jz0ojiang/hexo-info-api](https://github.com/jz0ojiang/hexo-info-api) - Generate Restful Api for Hexo
 
-*   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
+*   [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
 
-*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+*   [rootlexme/hexo-ai-excerpt](https://github.com/rootlexme/hexo-ai-excerpt) - hexo使用ai为您的文章生成摘要
 
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器
 
-*   [jaywcjlove/swift-tutorial](https://github.com/jaywcjlove/swift-tutorial) - Swift入门教程、读书笔记
+*   [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora Plugin. Feature Enhancement Tool | Typora 插件，功能增强工具
 
-*   [dong4j/Translation](https://github.com/dong4j/Translation) - this is a Intellij IDEA translation plugin demo
+*   [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 
-*   [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) - Python 练习册，每天一个小程序
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
-*   [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text) - sublime-text
+*   [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
-*   [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E) - Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
-*   [aterai/java-swing-tips](https://github.com/aterai/java-swing-tips) - Java Swing example.
+*   [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 
-*   [linsa-io/alfred-workflows](https://github.com/linsa-io/alfred-workflows) - Amazing Alfred Workflows
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
-*   [ifyour/Hosts-for-Surge](https://github.com/ifyour/Hosts-for-Surge) - 🌟 Hosts for Internet Freedom
+*   [LikeNeko/L2dPetForMac](https://github.com/LikeNeko/L2dPetForMac) - 基于electronjs的live2d桌宠项目，想在mac上养一只live2d宠物的话可以fork下来学习一下。这个项目是比较适合学习live2d的sdk与electron的一个项目。
 
-*   [dong4j/ideas](https://github.com/dong4j/ideas) -
+*   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 
-*   [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
+*   [wlm3201/Masonry\_Image\_Viewer](https://github.com/wlm3201/Masonry_Image_Viewer) - Masonry/Waterfall Image Viewer
 
-*   [dong4j/ren-ren-dou-shi-jia-gou-shi](https://github.com/dong4j/ren-ren-dou-shi-jia-gou-shi) -
+*   [waveform80/pistreaming](https://github.com/waveform80/pistreaming) - A little demo of streaming the Pi's camera to web browsers
 
-*   [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
+*   [stephendade/Rpanion-server](https://github.com/stephendade/Rpanion-server) - Web-based configurator for companion computers of MAVLink vehicles
 
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+*   [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
 
-*   [jiang111/awesome-androidstudio-plugins](https://github.com/jiang111/awesome-androidstudio-plugins) - 收集Android studio 常用的插件
+*   [wandergis/coordtransform](https://github.com/wandergis/coordtransform) - 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 
-*   [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
+*   [githubdulong/Script](https://github.com/githubdulong/Script) - QuantumultX｜Surge｜Loon
 
-*   [oulvhai/MWeb-issues](https://github.com/oulvhai/MWeb-issues) -
+*   [VirgilClyne/GetSomeFries](https://github.com/VirgilClyne/GetSomeFries) - 个人独立作品或公共组件库
 
-## Go
+*   [alanhe421/alfred-workflows](https://github.com/alanhe421/alfred-workflows) - Save time, Improve life.🚀  ☕️ 💻
 
-*   [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
-*   [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
+*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
-*   [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
+*   [mieqq/mieqq](https://github.com/mieqq/mieqq) -
 
-*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+*   [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
 
-*   [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
+*   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 
-*   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+*   [Yuheng0101/X](https://github.com/Yuheng0101/X) - Some scripts about Quantumult X, Surge, Loon, Shadowrocket and NodeJS.
 
-*   [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 
-*   [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
+*   [DualSubs/Universal](https://github.com/DualSubs/Universal) - 通用流媒体平台增强及双语字幕解决方案
 
-*   [higress-group/higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
+*   [cc63/Surge](https://github.com/cc63/Surge) - Surge的配置与模块
 
-*   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 
-*   [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering additional useful features. Such as login prompt, batch login, remember password, automated interaction, trzsz, zmodem(rz/sz), udp mode like mosh, etc.
+*   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 
-*   [tom-draper/api-analytics](https://github.com/tom-draper/api-analytics) - Effortless monitoring and analytics for API frameworks.
+*   [getsomecat/GetSomeCats](https://github.com/getsomecat/GetSomeCats) -
 
-*   [rdegges/ipify-api](https://github.com/rdegges/ipify-api) - A public IP API service.
+*   [BlueGrave/Surge](https://github.com/BlueGrave/Surge) - 自用的 Surge 规则和脚本
 
-*   [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+*   [Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
 
-*   [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+*   [Auraflare/1.1.1.1](https://github.com/Auraflare/1.1.1.1) - Cloudflare相关插件/模块
 
-*   [soxft/time-counter](https://github.com/soxft/time-counter) - a simple online user/time counter
+*   [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf > docker-composerize up
 
-*   [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 
-*   [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+*   [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu) - 🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.
 
-*   [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 
-*   [mdp/qrterminal](https://github.com/mdp/qrterminal) - QR Codes in your terminal
+*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 
-*   [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+*   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
-*   [soxft/busuanzi](https://github.com/soxft/busuanzi) - A simple website statistics analyzer
+*   [twikoojs/twikoo](https://github.com/twikoojs/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 
-*   [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
+*   [lucaceriani/ooo](https://github.com/lucaceriani/ooo) -
 
-*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+*   [gadore/ink-screen-bluetooth](https://github.com/gadore/ink-screen-bluetooth) - An script that can control a inkScreen with bluetooth protocol
 
-*   [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
-*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
-*   [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+*   [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用nestjs+vue3.x+ts+vite开发的在线图床系统，内置功能包括图片上传、图片管理、存储桶管理、相册管理、插件市场、知识库管理、数据统计等功能，插件分为上传插件、主题插件、工具箱插件，目前内置数十种插件，支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、七牛云 KODO等常用对象存储插件以及vscode暗黑主题、Monokai主题等。
 
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+*   [xlvecle/Bark-Chrome-Extension](https://github.com/xlvecle/Bark-Chrome-Extension) - Chrome Extension for Bark. Bark is an iOS App which allows you to push customed notifications to your iPhone
 
-*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+*   [moeyua/utools-bark](https://github.com/moeyua/utools-bark) - 通过 bark 将消息作为通知发送到 ios
 
-*   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+*   [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 
-*   [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
+*   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [TenviLi/markdown-image-localizer](https://github.com/TenviLi/markdown-image-localizer) - 🖼Fastly list or localize the images in markdowns.
 
-*   [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
+*   [icerockdev/libs.kmp.icerock.dev](https://github.com/icerockdev/libs.kmp.icerock.dev) - Kotlin Multiplatform libraries list with info auto-fetch
 
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
-*   [metatube-community/metatube-sdk-go](https://github.com/metatube-community/metatube-sdk-go) - MetaTube SDK & API Server in Golang
+*   [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 
-*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+*   [ZuoFuhong/wechat-mall-miniapp](https://github.com/ZuoFuhong/wechat-mall-miniapp) - 微信小程序商城，涵盖小程序端、CMS端、服务端，几乎是一套可以直接投放市场带SKU的商业级电商系统。
 
-*   [chaitin/blazehttp](https://github.com/chaitin/blazehttp) - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
+*   [iRayanKhan/homebridge-tuya](https://github.com/iRayanKhan/homebridge-tuya) - A Homebridge plugin to control Tuya devices locally.
 
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+*   [toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words) - 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
 
-*   [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+*   [YinHangCode/homebridge-mi-aqara](https://github.com/YinHangCode/homebridge-mi-aqara) - a homebridge plugin for XiaoMi Aqara plugin.
 
-*   [jaywcjlove/golang-tutorial](https://github.com/jaywcjlove/golang-tutorial) - Go语言快速入门
+*   [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+*   [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
-*   [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
+*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 
-*   [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+*   [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
 
-*   [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+*   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
 
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+*   [enilu/web-flash](https://github.com/enilu/web-flash) - web-flash --  Admin Framework and Mobile Website Based on Spring Boot and Vue.js
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+*   [enilu/material-admin](https://github.com/enilu/material-admin) - A Material Designed Admin Framework based on Spring boot2 And Bootstrap
 
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+*   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 
-*   [chyroc/icloudgo](https://github.com/chyroc/icloudgo) - Access Apple iCloud via go, go port of pyicloud
+*   [zce/weapp-todos](https://github.com/zce/weapp-todos) - 一个简单的任务清单小程序, awesome weapp demo, todos, todolist
 
-*   [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+*   [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Beautify your Jenkins with the Material Design theme!
 
-*   [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
+*   [xfslove/alfred-mvns](https://github.com/xfslove/alfred-mvns) - Alfred 3 workflow - search for java libraries at maven central repository
 
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+*   [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) -  Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
-*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 
-*   [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+*   [lmenezes/cerebro](https://github.com/lmenezes/cerebro) -
 
-*   [dromara/mayfly-go](https://github.com/dromara/mayfly-go) - Browser-based management platform of machine, database (mysql pgsql oracle sqlserver Gauss sqlite), redis(standalone sentinel cluster), mongo, Es unified management and operation platform. (web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql oracle sqlserver 高斯 达梦 sqlite)、数据同步、redis(单机 哨兵 集群)、mongo、Es统一管理操作平台)
+*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 
-*   [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
-*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
+*   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
-*   [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+*   [vuepress-reco/theme-cli](https://github.com/vuepress-reco/theme-cli) - 🛠️ This is the site generation tool for vuepress-theme-reco.
 
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+*   [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 
-*   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
+*   [silence0201/Surge.Conf](https://github.com/silence0201/Surge.Conf) - 整理的Surge配置文件
 
-*   [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
+*   [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 
-*   [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨
+*   [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 
-*   [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
+*   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 
-*   [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+*   [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 
-*   [clipable/clipable](https://github.com/clipable/clipable) - A simple, self-hosted, alternative to Streamable
+*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 
-*   [apache/answer](https://github.com/apache/answer) - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+*   [itsron143/ParticleGround-Portfolio](https://github.com/itsron143/ParticleGround-Portfolio) - A minimalistic particle theme landing page template.  ⚛️
 
-*   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+*   [zhuowenli/githuber](https://github.com/zhuowenli/githuber) - :octocat:  Display Github Trending repositories on Chrome New Tab Extensions
 
-*   [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 
-*   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 
-*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+*   [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
 
-*   [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
+*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 
-*   [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+*   [superman66/vue-axios-github](https://github.com/superman66/vue-axios-github) - Vue 全家桶 + axios 前端实现登录拦截、登出、拦截器等功能
 
-*   [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
+*   [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 
-*   [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
+*   [DXY-F2E/api-mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker.
 
-*   [parkomat/parkomat](https://github.com/parkomat/parkomat) - DNS + Web + WebDav server in one package.
+*   [yu120/mconf](https://github.com/yu120/mconf) - 微服务配置中心 mconf ,基于 Zookeeper和Redis实现的配置中心。提供拉取配置、订阅配置、新增配置、删除配置、修改配置等功能。支持多数据中心、多环境配置、配置分组、多版本配置等功能。
 
-*   [changkun/midgard](https://github.com/changkun/midgard) - ⛰️ Universal clipboard sharing service (supports macOS/Linux/Windows/iOS)
+*   [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 
-*   [YanxinTang/clipboard-online](https://github.com/YanxinTang/clipboard-online) - Share content between 💻Windows and 📱iOS
+*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
 
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [sorra/bms](https://github.com/sorra/bms) - Show you how Kotlin & Spring Boot works together
 
-*   [goodrain/rainbond](https://github.com/goodrain/rainbond) - A container platform that needs no Kubernetes learning, Build, deploy, assemble, and manage apps on Kubernetes, no K8s expertise needed, all in a graphical platform.
+*   [EthanLin-TWer/translation-spring-mvc-4-documentation](https://github.com/EthanLin-TWer/translation-spring-mvc-4-documentation) - Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿
 
-*   [ogromwang/xhz](https://github.com/ogromwang/xhz) - 🐽 xhz 一个基于 Flutter Go 的在线亲友记账共享 app
+*   [sosoapi/sosoapi-web](https://github.com/sosoapi/sosoapi-web) -
 
-*   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
+*   [dyc87112/online-markdown](https://github.com/dyc87112/online-markdown) - 在线Markdown转微信公众号内容工具
 
-*   [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+*   [ityouknow/spring-examples](https://github.com/ityouknow/spring-examples) - Spring Examples
 
-*   [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+*   [preactjs/preact-www](https://github.com/preactjs/preact-www) - 📖 Preact documentation website.
 
-*   [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+*   [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 
-*   [jenkins-zh/jenkins-cli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you to manage your Jenkins in an easy way. Jenkins 命令行客户端
+*   [trazyn/weweChat](https://github.com/trazyn/weweChat) - 💬 Unofficial WeChat client built with React, MobX and Electron.
 
-*   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+*   [AsuraTeam/monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
 
-*   [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
+*   [zhongxig/dubbo-d-monitor](https://github.com/zhongxig/dubbo-d-monitor) - dubbo monitor 基于dubbo2.5.3开发的监控平台，兼容了dubbo-admin的特性,有redis、mysql两个版本
 
-*   [TruthHun/BookStack](https://github.com/TruthHun/BookStack) - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
-*   [owlwalks/rind](https://github.com/owlwalks/rind) - DNS server with REST interface for records management built on Golang
+*   [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 
-*   [apache/dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo.
+*   [iBase4J/iBase4J](https://github.com/iBase4J/iBase4J) - Spring，SpringBoot 2.0，SpringMVC，Mybatis，mybatis-plus，motan/dubbo分布式，Redis缓存，Shiro权限管理，Spring-Session单点登录，Quartz分布式集群调度，Restful服务，QQ/微信登录，App token登录，微信/支付宝支付；日期转换、数据类型转换、序列化、汉字转拼音、身份证号码验证、数字转人民币、发送短信、发送邮件、加密解密、图片处理、excel导入导出、FTP/SFTP/fastDFS上传下载、二维码、XML读写、高精度计算、系统配置工具类等等。
 
-*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+*   [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 
-*   [sundy-li/wechat\_autojump\_game](https://github.com/sundy-li/wechat_autojump_game) - 用Golang实现微信跳一跳游戏自动玩
+*   [jaywcjlove/FED](https://github.com/jaywcjlove/FED) - ✪ 这是一个很酷炫的前端网站搜集器，导航网  http://jaywcjlove.github.io/FED
 
-*   [vincentruan/wechat\_autojump\_game](https://github.com/vincentruan/wechat_autojump_game) - 用Golang实现微信跳一跳游戏自动玩
+*   [jaywcjlove/my-repos](https://github.com/jaywcjlove/my-repos) - This is my list of repositories.
 
-*   [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
+*   [jaywcjlove/nxylene](https://github.com/jaywcjlove/nxylene) - 练习nodejs大法，使用nodejs+mongodb+express4.x做个小实例。
 
-*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+*   [c4pt0r/mdwiki](https://github.com/c4pt0r/mdwiki) - a wiki using markdown
 
-*   [hyper0x/goc2p](https://github.com/hyper0x/goc2p) - An example project for book 'Go Programming & Concurrency in Practice'.
+*   [odenny/hydra](https://github.com/odenny/hydra) - 分布式跟踪系统
 
-*   [george518/PPGo\_ApiAdmin](https://github.com/george518/PPGo_ApiAdmin) - go-API-manage
+*   [moocss/EasyCMS](https://github.com/moocss/EasyCMS) - 使用SpringMVC+MyBatis+FreeMarker 创建简单的CMS内容发布系统
 
-*   [urfave/negroni](https://github.com/urfave/negroni) - Idiomatic HTTP Middleware for Golang
+*   [basecss/city](https://github.com/basecss/city) - 国家行政区划分数据
 
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+*   [zhangjikai/FileManager](https://github.com/zhangjikai/FileManager) - 在线文件共享
 
-*   [andeya/faygo](https://github.com/andeya/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify the request parameters and generate the online API doc.
+*   [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
-*   [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+*   [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 
-*   [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
+*   [mrwill84/DOClever](https://github.com/mrwill84/DOClever) - 做最好的接口管理平台
 
-*   [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+*   [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 
-*   [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-
-*   [nikivdev/alfred-learn-anything](https://github.com/nikivdev/alfred-learn-anything) - Alfred workflow to search Learn Anything
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-
-*   [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
-
-*   [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
-
-*   [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-
-*   [astaxie/go-best-practice](https://github.com/astaxie/go-best-practice) - Trying to complete over 100 projects in various categories in golang.
+*   [otale/tale](https://github.com/otale/tale) - 🦄 Best beautiful java blog, worth a try
 
 ## Shell
 
@@ -2026,80 +2116,6 @@
 *   [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
 *   [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-
-## HTML
-
-*   [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-
-*   [yaojingang/yao-open-skills](https://github.com/yaojingang/yao-open-skills) - OpenYao 公开 Skill 合集：把决策、商业分析、学习教程、研究取证和文档生成流程沉淀成可复用的 AI 资产。
-
-*   [ZhangHanDong/harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding) - Harness Engineering From Claude Code source code to AI Coding
-
-*   [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
-
-*   [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser.
-
-*   [onenov/Dify2OpenAI](https://github.com/onenov/Dify2OpenAI) - 一个将 Dify 应用程序转换为 OpenAI API 接口的网关服务，使您可以使用 OpenAI API 兼容的方式访问 Dify 的 LLM、知识库、工具和工作流程。
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
-
-*   [sqlsec/PVE](https://github.com/sqlsec/PVE) - 国光的 PVE 生产力环境搭建教程
-
-*   [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [nezhahq/nezhahq.github.io](https://github.com/nezhahq/nezhahq.github.io) - Nezha Monitoring Docs
-
-*   [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
-
-*   [anzhiyu-c/OverseasProhibition](https://github.com/anzhiyu-c/OverseasProhibition) - 海外禁止访问的单页面
-
-*   [zhheo/halo-theme-heolink](https://github.com/zhheo/halo-theme-heolink) - 简约的导航主题
-
-*   [monkeymademe/CamUI](https://github.com/monkeymademe/CamUI) - CamUI is a WebUI for the Picamera2 Library for the Raspberry Pi
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
-
-*   [jansorg/marketplace-stats](https://github.com/jansorg/marketplace-stats) - A CLI tool to create reports for paid plugins on the JetBrains marketplace.
-
-*   [kana112233/intellij-sdk-docs-cn](https://github.com/kana112233/intellij-sdk-docs-cn) - 翻译文档
-
-*   [yangzongzhuan/RuoYi-fast](https://github.com/yangzongzhuan/RuoYi-fast) - :tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
-
-*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-
-*   [dong4j/dong4j.github.io](https://github.com/dong4j/dong4j.github.io) - blog
-
-*   [dong4j/mik-help](https://github.com/dong4j/mik-help) - markdown-image-kit 相关 rest api
-
-*   [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-*   [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
-
-*   [mrniko/netty-socketio-demo](https://github.com/mrniko/netty-socketio-demo) - netty-socketio demo
-
-*   [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)
-
-*   [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client
-
-*   [Jason-Chen-2017/restfeel](https://github.com/Jason-Chen-2017/restfeel) - RESTFeel: 一个企业级的API管理&测试平台。RESTFeel帮助你设计、开发、测试您的API。
-
-*   [hellokaton/java-bible](https://github.com/hellokaton/java-bible) - :banana: 我的技术摘要
-
-*   [roncoo/roncoo-adminLTE](https://github.com/roncoo/roncoo-adminLTE) - RonCoo AdminLTE --是一个完全响应式的免费开源后台管理模板。基于 AdminLTE 框架（后续会随着版本更新而更新）;使用jQuery 2.2.3版本，并引入很多优秀的第三方jQuery插件，开发者也可以改用自己熟悉的第三方插件,易于使用，并高度可定制，适合许多屏幕分辨率从小型移动设备到大型台式机，这是国内的开源模板未支持的。
-
-*   [handuyishe/dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
-
-*   [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
-
-*   [qitaos/rf-demos](https://github.com/qitaos/rf-demos) - 需要自己使用例子的，请下载demo-website的完整目录内容。
-
-*   [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
 ## Astro
 
@@ -3063,16 +3079,6 @@
 
 *   [Yirendai/cicada](https://github.com/Yirendai/cicada) - A Dapper based Large-Scale Distributed Systems Tracing Infrastructure
 
-*   [liaokailin/zipkin](https://github.com/liaokailin/zipkin) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data.
-
-*   [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-
-*   [looly/loServer](https://github.com/looly/loServer) - 基于Netty的Http应用服务器
-
-*   [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
-
-*   [dong4j/pattern\_code](https://github.com/dong4j/pattern_code) - 这是一个学习设计模式时所涉及到的代码
-
 ## C\#
 
 *   [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -3309,8 +3315,6 @@
 
 *   [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 
-*   [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
-
 ## Dockerfile
 
 *   [normal-coder/OpenVPN2SS](https://github.com/normal-coder/OpenVPN2SS) - Convert OpenVPN into Socks5 via Docker 将 OpenVPN 协议转为 Socks 协议，支持同时多开多个 OpenVPN 客户端，解决不同工作环境 OpenVPN 内网同时访问问题
@@ -3356,8 +3360,6 @@
 *   [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) - 记录GitBook的一些配置及插件信息
 
 *   [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
-
-*   [cyhhao/html2enml](https://github.com/cyhhao/html2enml) - 在前端将 HTML 尽量转换成 ENML 的工具，需二次调整
 
 ## EJS
 
@@ -3480,8 +3482,6 @@
 *   [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) - IntelliJ SDK Platform Documentation
 
 *   [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Objective-C
 
